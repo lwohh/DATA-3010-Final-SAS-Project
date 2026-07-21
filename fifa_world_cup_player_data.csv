@@ -1,0 +1,1249 @@
+player_id,player_name,team,position,goals,expected_goals,successful_dribbles
+P00001,Kylian Griezmann,France,Goalkeeper,0,0,0
+P00002,Antoine Tchouameni,France,Goalkeeper,0,0,0
+P00003,Ousmane Hernandez,France,Goalkeeper,0,0,1
+P00004,Kylian Camavinga,France,Defender,0,0.001764706,0
+P00005,Antoine Kounde,France,Defender,0,0.005294118,0
+P00006,Ousmane Upamecano,France,Defender,0,0.015294118,2
+P00007,Aurelien Rabiot,France,Defender,1,0.000294118,2
+P00008,Eduardo Sissoko,France,Defender,0,0.006470588,1
+P00009,Theo Varane,France,Defender,0,0.000294118,0
+P00010,Lucas Pavard,France,Defender,3,0,1
+P00011,Randal Diarra,France,Defender,0,0.001470588,1
+P00012,Olivier Badiashile,France,Defender,1,0.000294118,1
+P00013,Kylian Maignan,France,Midfielder,2,0.006176471,1
+P00014,Antoine Saliba,France,Midfielder,0,0.018823529,5
+P00015,Ousmane Konate,France,Midfielder,1,0.003823529,2
+P00016,Aurelien Thuram,France,Midfielder,0,0.010882353,6
+P00017,Eduardo Olise,France,Midfielder,2,0.013823529,7
+P00018,Theo Mukiele,France,Midfielder,2,0.020588235,18
+P00019,Lucas Todibo,France,Midfielder,2,0.002647059,8
+P00020,Randal Griezmann,France,Midfielder,1,0.001764706,9
+P00021,Kylian Olise,France,Forward,5,0.023529412,11
+P00022,Antoine Mukiele,France,Forward,2,0.027352941,3
+P00023,Ousmane Todibo,France,Forward,6,0.110294118,20
+P00024,Aurelien Griezmann,France,Forward,3,0.04,10
+P00025,Eduardo Tchouameni,France,Forward,4,0.022941176,7
+P00026,Theo Hernandez,France,Forward,0,0.052647059,8
+P00027,Joshua Musiala,Germany,Goalkeeper,0,0,0
+P00028,Jamal Havertz,Germany,Goalkeeper,0,0,0
+P00029,Leroy Schlotterbeck,Germany,Goalkeeper,0,0,0
+P00030,Joshua Rudiger,Germany,Defender,1,0.000882353,1
+P00031,Jamal Goretzka,Germany,Defender,0,0.003823529,0
+P00032,Leroy Werner,Germany,Defender,1,0.001176471,1
+P00033,Kai Neuer,Germany,Defender,2,0.001176471,2
+P00034,Antonio Gnabry,Germany,Defender,2,0.007941176,1
+P00035,Nico Ginter,Germany,Defender,0,0.000294118,0
+P00036,Leon Sule,Germany,Defender,2,0.007058824,0
+P00037,Florian Brandt,Germany,Defender,1,0.003529412,0
+P00038,Timo Henrichs,Germany,Defender,1,0.006470588,0
+P00039,Joshua Tah,Germany,Midfielder,1,0.007941176,6
+P00040,Jamal Koch,Germany,Midfielder,5,0.010294118,13
+P00041,Leroy Klostermann,Germany,Midfielder,3,0.004117647,5
+P00042,Kai Can,Germany,Midfielder,0,0.006470588,13
+P00043,Antonio Fulle,Germany,Midfielder,0,0.005294118,3
+P00044,Nico Volland,Germany,Midfielder,2,0.020882353,13
+P00045,Leon Gotze,Germany,Midfielder,7,0.010882353,4
+P00046,Florian Musiala,Germany,Midfielder,2,0.020588235,6
+P00047,Joshua Fulle,Germany,Forward,4,0.073823529,16
+P00048,Jamal Volland,Germany,Forward,2,0.022352941,9
+P00049,Leroy Gotze,Germany,Forward,3,0.008823529,3
+P00050,Kai Musiala,Germany,Forward,5,0.064705882,8
+P00051,Antonio Havertz,Germany,Forward,1,0.042647059,6
+P00052,Nico Schlotterbeck,Germany,Forward,5,0.06,12
+P00053,Pedro Gavi,Spain,Goalkeeper,0,0,0
+P00054,Gavi Morata,Spain,Goalkeeper,0,0,1
+P00055,Rodri Fati,Spain,Goalkeeper,0,0,0
+P00056,Pedro Torres,Spain,Defender,1,0.000888889,0
+P00057,Gavi Asensio,Spain,Defender,2,0.001333333,0
+P00058,Rodri Laporte,Spain,Defender,0,0.002888889,0
+P00059,Alvaro Oyarzabal,Spain,Defender,0,0,1
+P00060,Ferran Pau,Spain,Defender,0,0.001777778,2
+P00061,Ansu Alba,Spain,Defender,1,0.001555556,0
+P00062,Marco Carvajal,Spain,Defender,1,0.001333333,0
+P00063,Dani Garcia,Spain,Defender,1,0.000666667,1
+P00064,Aymeric Yamal,Spain,Defender,0,0.002888889,0
+P00065,Pedro Riquelme,Spain,Midfielder,4,0.008222222,1
+P00066,Gavi Ramos,Spain,Midfielder,1,0.021111111,24
+P00067,Rodri Alonso,Spain,Midfielder,3,0.008222222,7
+P00068,Alvaro Llorente,Spain,Midfielder,2,0.005111111,13
+P00069,Ferran Cubarsi,Spain,Midfielder,2,0.028666667,13
+P00070,Ansu Le Normand,Spain,Midfielder,3,0.016,5
+P00071,Marco Mikel,Spain,Midfielder,2,0.013777778,17
+P00072,Dani Gavi,Spain,Midfielder,4,0.012444444,19
+P00073,Pedro Cubarsi,Spain,Forward,4,0.015111111,10
+P00074,Gavi Le Normand,Spain,Forward,4,0.130666667,27
+P00075,Rodri Mikel,Spain,Forward,6,0.034,17
+P00076,Alvaro Gavi,Spain,Forward,8,0.053333333,26
+P00077,Ferran Morata,Spain,Forward,7,0.050444444,22
+P00078,Ansu Fati,Spain,Forward,5,0.054666667,5
+P00079,Harry Bellingham,England,Goalkeeper,0,0,0
+P00080,Jude Saka,England,Goalkeeper,0,0,2
+P00081,Phil Rashford,England,Goalkeeper,0,0,0
+P00082,Harry Rice,England,Defender,1,0.000454545,0
+P00083,Jude Grealish,England,Defender,1,0.000681818,1
+P00084,Phil Walker,England,Defender,0,0.001136364,0
+P00085,Bukayo Alexander-Arnold,England,Defender,1,0.002954545,1
+P00086,Declan Trippier,England,Defender,1,0.002272727,1
+P00087,Marcus Mount,England,Defender,0,0.003181818,0
+P00088,Jack Toney,England,Defender,1,0.002954545,0
+P00089,John Palmer,England,Defender,3,0.0025,2
+P00090,Kyle Gallagher,England,Defender,0,0.003636364,0
+P00091,Harry Phillips,England,Midfielder,0,0.005,1
+P00092,Jude Maddison,England,Midfielder,1,0.004318182,3
+P00093,Phil Eze,England,Midfielder,2,0.013409091,2
+P00094,Bukayo Ramsdale,England,Midfielder,2,0.016818182,12
+P00095,Declan Watkins,England,Midfielder,5,0.007954545,8
+P00096,Marcus Chilwell,England,Midfielder,5,0.016136364,24
+P00097,Jack White,England,Midfielder,1,0.011363636,13
+P00098,John Bellingham,England,Midfielder,0,0.007954545,7
+P00099,Harry Watkins,England,Forward,5,0.038636364,13
+P00100,Jude Chilwell,England,Forward,8,0.094545455,28
+P00101,Phil White,England,Forward,8,0.13,28
+P00102,Bukayo Bellingham,England,Forward,6,0.018181818,14
+P00103,Declan Saka,England,Forward,10,0.034545455,22
+P00104,Marcus Rashford,England,Forward,5,0.058409091,27
+P00105,Gianluigi Chiesa,Italy,Goalkeeper,0,0,0
+P00106,Federico Tonali,Italy,Goalkeeper,0,0,0
+P00107,Nicolo Immobile,Italy,Goalkeeper,0,0,1
+P00108,Gianluigi Verratti,Italy,Defender,0,0.003207547,0
+P00109,Federico Pellegrini,Italy,Defender,0,0.000943396,0
+P00110,Nicolo Bastoni,Italy,Defender,0,0.000943396,0
+P00111,Sandro Scamacca,Italy,Defender,2,0.00245283,0
+P00112,Marco Locatelli,Italy,Defender,0,0.000754717,0
+P00113,Ciro Spinazzola,Italy,Defender,0,0.003207547,1
+P00114,Lorenzo Frascati,Italy,Defender,0,0.002830189,0
+P00115,Stephan Guglielmo,Italy,Defender,0,0.000754717,1
+P00116,Alessandro Udogie,Italy,Defender,0,0.000754717,1
+P00117,Gianluigi Di Lorenzo,Italy,Midfielder,4,0.012264151,16
+P00118,Federico Berardi,Italy,Midfielder,2,0.020566038,11
+P00119,Nicolo Vicario,Italy,Midfielder,1,0.012264151,4
+P00120,Sandro Bellanova,Italy,Midfielder,9,0.011509434,14
+P00121,Marco Calafiori,Italy,Midfielder,0,0.005471698,4
+P00122,Ciro Colpani,Italy,Midfielder,4,0.001886792,12
+P00123,Lorenzo Retegui,Italy,Midfielder,3,0.007735849,11
+P00124,Stephan Chiesa,Italy,Midfielder,1,0.019622642,12
+P00125,Gianluigi Calafiori,Italy,Forward,13,0.047735849,35
+P00126,Federico Colpani,Italy,Forward,12,0.090943396,30
+P00127,Nicolo Retegui,Italy,Forward,4,0.033207547,8
+P00128,Sandro Chiesa,Italy,Forward,1,0.007924528,12
+P00129,Marco Tonali,Italy,Forward,7,0.018301887,8
+P00130,Ciro Immobile,Italy,Forward,1,0.029622642,9
+P00131,Frenkie Gakpo,Netherlands,Goalkeeper,0,0,1
+P00132,Cody Blind,Netherlands,Goalkeeper,0,0,0
+P00133,Memphis van Dijk,Netherlands,Goalkeeper,0,0,3
+P00134,Frenkie de Ligt,Netherlands,Defender,0,0.003888889,0
+P00135,Cody Dumfries,Netherlands,Defender,2,0.004259259,1
+P00136,Memphis Simons,Netherlands,Defender,0,0.007407407,2
+P00137,Daley Berghuis,Netherlands,Defender,0,0.003518519,0
+P00138,Matthijs Timber,Netherlands,Defender,2,0.001111111,0
+P00139,Virgil Weghorst,Netherlands,Defender,0,0.010555556,1
+P00140,Denzel Malen,Netherlands,Defender,0,0.002037037,2
+P00141,Teun Gravenberch,Netherlands,Defender,1,0.001481481,2
+P00142,Xavi Veerman,Netherlands,Defender,1,0.002592593,0
+P00143,Frenkie Ake,Netherlands,Midfielder,3,0.029444444,22
+P00144,Cody de Jong,Netherlands,Midfielder,2,0.017592593,8
+P00145,Memphis van de Ven,Netherlands,Midfielder,4,0.022407407,8
+P00146,Daley Frimpong,Netherlands,Midfielder,5,0.03037037,16
+P00147,Matthijs Wijndal,Netherlands,Midfielder,2,0.014444444,5
+P00148,Virgil Lang,Netherlands,Midfielder,6,0.008888889,4
+P00149,Denzel Zerrouki,Netherlands,Midfielder,2,0.010740741,11
+P00150,Teun Gakpo,Netherlands,Midfielder,0,0.000925926,3
+P00151,Frenkie Wijndal,Netherlands,Forward,8,0.028148148,31
+P00152,Cody Lang,Netherlands,Forward,10,0.051851852,32
+P00153,Memphis Zerrouki,Netherlands,Forward,24,0.05962963,53
+P00154,Daley Gakpo,Netherlands,Forward,5,0.030555556,18
+P00155,Matthijs Blind,Netherlands,Forward,9,0.025,16
+P00156,Virgil van Dijk,Netherlands,Forward,8,0.046111111,30
+P00157,Kevin Lukaku,Belgium,Goalkeeper,0,0,1
+P00158,Romelu Courtois,Belgium,Goalkeeper,0,0,0
+P00159,Eden Dendoncker,Belgium,Goalkeeper,0,0,2
+P00160,Kevin Tielemans,Belgium,Defender,1,0.00372549,1
+P00161,Romelu Witsel,Belgium,Defender,0,0.000784314,1
+P00162,Eden Castagne,Belgium,Defender,1,0.001176471,0
+P00163,Thibaut Vertonghen,Belgium,Defender,0,0.000784314,0
+P00164,Youri Chadli,Belgium,Defender,0,0.000196078,0
+P00165,Leander Doku,Belgium,Defender,3,0.00627451,2
+P00166,Axel Bakayoko,Belgium,Defender,0,0.000980392,0
+P00167,Thomas Openda,Belgium,Defender,1,0.000196078,2
+P00168,Jason Theate,Belgium,Defender,1,0.000392157,2
+P00169,Kevin Casteels,Belgium,Midfielder,4,0.009019608,4
+P00170,Romelu Onana,Belgium,Midfielder,2,0.028039216,26
+P00171,Eden De Ketelaere,Belgium,Midfielder,7,0.013529412,12
+P00172,Thibaut Faes,Belgium,Midfielder,2,0.019215686,6
+P00173,Youri Saelemaekers,Belgium,Midfielder,3,0.055294118,11
+P00174,Leander Vanheusden,Belgium,Midfielder,0,0.007058824,7
+P00175,Axel Lammens,Belgium,Midfielder,1,0.016862745,12
+P00176,Thomas Lukaku,Belgium,Midfielder,3,0.047843137,16
+P00177,Kevin Saelemaekers,Belgium,Forward,10,0.068235294,48
+P00178,Romelu Vanheusden,Belgium,Forward,10,0.084313725,28
+P00179,Eden Lammens,Belgium,Forward,3,0.028627451,17
+P00180,Thibaut Lukaku,Belgium,Forward,7,0.037058824,20
+P00181,Youri Courtois,Belgium,Forward,6,0.077647059,21
+P00182,Leander Dendoncker,Belgium,Forward,2,0.030196078,12
+P00183,Cristiano Fernandes,Portugal,Goalkeeper,0,0,0
+P00184,Bruno Leao,Portugal,Goalkeeper,0,0,0
+P00185,Bernardo Felix,Portugal,Goalkeeper,0,0,1
+P00186,Cristiano Jota,Portugal,Defender,0,0.000930233,0
+P00187,Bruno Cancelo,Portugal,Defender,0,0.004651163,2
+P00188,Bernardo Santos,Portugal,Defender,2,0.001162791,1
+P00189,Rafael Guedes,Portugal,Defender,1,0.002790698,0
+P00190,Diogo Semedo,Portugal,Defender,0,0.003255814,1
+P00191,Joao Neves,Portugal,Defender,2,0.000465116,1
+P00192,Pedro Neto,Portugal,Defender,1,0.001395349,0
+P00193,Ruben Inacio,Portugal,Defender,0,0.001162791,1
+P00194,Pepe Carvalho,Portugal,Defender,0,0.000232558,0
+P00195,Cristiano Palhinha,Portugal,Midfielder,2,0.015813953,4
+P00196,Bruno Vitinha,Portugal,Midfielder,2,0.010232558,2
+P00197,Bernardo Conceicao,Portugal,Midfielder,0,0.009534884,7
+P00198,Rafael Antonio,Portugal,Midfielder,2,0.008837209,8
+P00199,Diogo Eustaquio,Portugal,Midfielder,0,0.012093023,7
+P00200,Joao Taremi,Portugal,Midfielder,2,0.01255814,9
+P00201,Pedro Pepe,Portugal,Midfielder,3,0.008372093,4
+P00202,Ruben Fernandes,Portugal,Midfielder,1,0.01,8
+P00203,Cristiano Eustaquio,Portugal,Forward,8,0.048139535,19
+P00204,Bruno Taremi,Portugal,Forward,3,0.026511628,11
+P00205,Bernardo Pepe,Portugal,Forward,12,0.063488372,25
+P00206,Rafael Fernandes,Portugal,Forward,2,0.054651163,8
+P00207,Diogo Leao,Portugal,Forward,7,0.03255814,20
+P00208,Joao Felix,Portugal,Forward,10,0.060697674,27
+P00209,Luka Kovacic,Croatia,Goalkeeper,0,0,1
+P00210,Mateo Brozovic,Croatia,Goalkeeper,0,0,1
+P00211,Ivan Kramaric,Croatia,Goalkeeper,0,0,0
+P00212,Luka Vlasic,Croatia,Defender,0,0.004489796,0
+P00213,Mateo Pasalic,Croatia,Defender,1,0.002653061,0
+P00214,Ivan Gvardiol,Croatia,Defender,0,0,0
+P00215,Marcelo Lovren,Croatia,Defender,3,0.00122449,1
+P00216,Josko Bradaric,Croatia,Defender,0,0.002040816,0
+P00217,Dominik Juranovic,Croatia,Defender,0,0.000612245,2
+P00218,Andrej Sutalo,Croatia,Defender,1,0.004489796,1
+P00219,Mario Ivanusec,Croatia,Defender,0,0.001836735,0
+P00220,Ante Budimir,Croatia,Defender,0,0.002244898,0
+P00221,Luka Barisic,Croatia,Midfielder,1,0.011428571,8
+P00222,Mateo Stanisic,Croatia,Midfielder,0,0.026734694,13
+P00223,Ivan Erlic,Croatia,Midfielder,2,0.016326531,8
+P00224,Marcelo Petkovic,Croatia,Midfielder,3,0.015714286,7
+P00225,Josko Musah,Croatia,Midfielder,1,0.014693878,6
+P00226,Dominik Kljulanovic,Croatia,Midfielder,1,0.01122449,9
+P00227,Andrej Bajkovic,Croatia,Midfielder,6,0.026122449,16
+P00228,Mario Kovacic,Croatia,Midfielder,3,0.01,13
+P00229,Luka Musah,Croatia,Forward,12,0.043265306,27
+P00230,Mateo Kljulanovic,Croatia,Forward,4,0.026734694,10
+P00231,Ivan Bajkovic,Croatia,Forward,5,0.03122449,8
+P00232,Marcelo Kovacic,Croatia,Forward,4,0.04,6
+P00233,Josko Brozovic,Croatia,Forward,4,0.04122449,17
+P00234,Dominik Kramaric,Croatia,Forward,15,0.116734694,50
+P00235,Granit Shaqiri,Switzerland,Goalkeeper,0,0,0
+P00236,Xherdan Sommer,Switzerland,Goalkeeper,0,0,0
+P00237,Manuel Zuber,Switzerland,Goalkeeper,0,0,0
+P00238,Granit Rodriguez,Switzerland,Defender,0,0.000857143,1
+P00239,Xherdan Fernandes,Switzerland,Defender,0,0.002,1
+P00240,Manuel Seferovic,Switzerland,Defender,0,0.006285714,1
+P00241,Yann Elvedi,Switzerland,Defender,1,0.001714286,0
+P00242,Ricardo Mbabu,Switzerland,Defender,1,0.001142857,1
+P00243,Stefan Okafor,Switzerland,Defender,2,0,0
+P00244,Fabian Ndoye,Switzerland,Defender,1,0.006,2
+P00245,Remo Jashari,Switzerland,Defender,0,0.002285714,2
+P00246,Haris Steiner,Switzerland,Defender,0,0.000857143,0
+P00247,Granit Zakaria,Switzerland,Midfielder,0,0.003714286,4
+P00248,Xherdan Aebischer,Switzerland,Midfielder,3,0.025428571,6
+P00249,Manuel Rieder,Switzerland,Midfielder,4,0.007714286,5
+P00250,Yann Blerim,Switzerland,Midfielder,1,0.025428571,10
+P00251,Ricardo Kobal,Switzerland,Midfielder,0,0.004857143,6
+P00252,Stefan Mvogo,Switzerland,Midfielder,2,0.021142857,3
+P00253,Fabian Pfannenstiel,Switzerland,Midfielder,4,0.009142857,5
+P00254,Remo Shaqiri,Switzerland,Midfielder,0,0.009714286,4
+P00255,Granit Kobal,Switzerland,Forward,6,0.227142857,30
+P00256,Xherdan Mvogo,Switzerland,Forward,5,0.042857143,9
+P00257,Manuel Pfannenstiel,Switzerland,Forward,2,0.043428571,9
+P00258,Yann Shaqiri,Switzerland,Forward,9,0.042285714,12
+P00259,Ricardo Sommer,Switzerland,Forward,2,0.015714286,5
+P00260,Stefan Zuber,Switzerland,Forward,7,0.034571429,24
+P00261,Christian Hojbjerg,Denmark,Goalkeeper,0,0,0
+P00262,Pierre-Emile Christensen,Denmark,Goalkeeper,0,0,1
+P00263,Simon Wind,Denmark,Goalkeeper,0,0,0
+P00264,Christian Maehle,Denmark,Defender,2,0.002790698,1
+P00265,Pierre-Emile Damsgaard,Denmark,Defender,1,0.001162791,1
+P00266,Simon Dolberg,Denmark,Defender,1,0.003255814,0
+P00267,Andreas Lindstrom,Denmark,Defender,0,0.001627907,0
+P00268,Joakim Maeland,Denmark,Defender,2,0.001162791,0
+P00269,Rasmus Andersen,Denmark,Defender,2,0.003488372,1
+P00270,Mikkel Bah,Denmark,Defender,2,0.002325581,1
+P00271,Kasper Cornelius,Denmark,Defender,2,0.000930233,1
+P00272,Jannik Olsen,Denmark,Defender,1,0.001860465,2
+P00273,Christian Wass,Denmark,Midfielder,3,0.015348837,2
+P00274,Pierre-Emile Christensen,Denmark,Midfielder,1,0.005348837,9
+P00275,Simon Poulsen,Denmark,Midfielder,0,0.009302326,4
+P00276,Andreas Vestergaard,Denmark,Midfielder,0,0.004651163,3
+P00277,Joakim Skov,Denmark,Midfielder,6,0.010930233,4
+P00278,Rasmus Laursen,Denmark,Midfielder,0,0.009069767,13
+P00279,Mikkel Hansen,Denmark,Midfielder,1,0.005116279,5
+P00280,Kasper Hojbjerg,Denmark,Midfielder,0,0.010697674,7
+P00281,Christian Skov,Denmark,Forward,6,0.138372093,17
+P00282,Pierre-Emile Laursen,Denmark,Forward,2,0.057209302,12
+P00283,Simon Hansen,Denmark,Forward,9,0.038604651,18
+P00284,Andreas Hojbjerg,Denmark,Forward,9,0.079302326,27
+P00285,Joakim Christensen,Denmark,Forward,2,0.043255814,3
+P00286,Rasmus Wind,Denmark,Forward,5,0.039534884,9
+P00287,Dusan Mitrovic,Serbia,Goalkeeper,0,0,0
+P00288,Aleksandar Savic,Serbia,Goalkeeper,0,0,0
+P00289,Filip Milinkovic-Savic,Serbia,Goalkeeper,0,0,1
+P00290,Dusan Gudelj,Serbia,Defender,1,0.001904762,0
+P00291,Aleksandar Kostic,Serbia,Defender,1,0.001666667,0
+P00292,Filip Pavlovic,Serbia,Defender,2,0.002619048,0
+P00293,Sergej Milenkovic,Serbia,Defender,0,0.00047619,0
+P00294,Nemanja Lazovic,Serbia,Defender,1,0.001428571,1
+P00295,Dusan Zivkovic,Serbia,Defender,1,0.001666667,0
+P00296,Lazar Ilic,Serbia,Defender,4,0.000952381,2
+P00297,Strahinja Ristic,Serbia,Defender,0,0.001428571,1
+P00298,Andrija Gudelj,Serbia,Defender,0,0.002380952,1
+P00299,Dusan Radonjic,Serbia,Midfielder,1,0.010238095,6
+P00300,Aleksandar Lukic,Serbia,Midfielder,2,0.007857143,9
+P00301,Filip Maksimovic,Serbia,Midfielder,4,0.009761905,6
+P00302,Sergej Jovic,Serbia,Midfielder,5,0.025238095,17
+P00303,Nemanja Jevtovic,Serbia,Midfielder,4,0.013809524,13
+P00304,Dusan Terzic,Serbia,Midfielder,2,0.012142857,8
+P00305,Lazar Grujic,Serbia,Midfielder,0,0.015714286,5
+P00306,Strahinja Mitrovic,Serbia,Midfielder,2,0.014285714,5
+P00307,Dusan Jevtovic,Serbia,Forward,8,0.047857143,26
+P00308,Aleksandar Terzic,Serbia,Forward,7,0.039047619,12
+P00309,Filip Grujic,Serbia,Forward,5,0.047142857,13
+P00310,Sergej Mitrovic,Serbia,Forward,3,0.041190476,17
+P00311,Nemanja Savic,Serbia,Forward,3,0.044047619,17
+P00312,Dusan Milinkovic-Savic,Serbia,Forward,3,0.051904762,5
+P00313,David Sabitzer,Austria,Goalkeeper,0,0,0
+P00314,Marcel Lainer,Austria,Goalkeeper,0,0,0
+P00315,Marko Baumgartlinger,Austria,Goalkeeper,0,0,1
+P00316,David Laimer,Austria,Defender,0,0.000909091,2
+P00317,Marcel Kalajdzic,Austria,Defender,1,0.007878788,0
+P00318,Marko Gregoritsch,Austria,Defender,0,0.006969697,2
+P00319,Konrad Posch,Austria,Defender,1,0.001818182,1
+P00320,Stefan Hinteregger,Austria,Defender,1,0.000606061,1
+P00321,Maximilian Seiwald,Austria,Defender,0,0.00030303,0
+P00322,Florian Waldschmidt,Austria,Defender,0,0.004242424,3
+P00323,Xaver Kofler,Austria,Defender,0,0.000909091,1
+P00324,Philipp Friedl,Austria,Defender,2,0.003030303,1
+P00325,David Ulmer,Austria,Midfielder,6,0.013636364,14
+P00326,Marcel Dembir,Austria,Midfielder,2,0.008484848,4
+P00327,Marko Borrmann,Austria,Midfielder,0,0.013333333,5
+P00328,Konrad Bardi,Austria,Midfielder,0,0.004545455,5
+P00329,Stefan Muhl,Austria,Midfielder,2,0.002424242,5
+P00330,Maximilian Bavoli,Austria,Midfielder,4,0.018181818,6
+P00331,Florian Kick,Austria,Midfielder,1,0.017575758,11
+P00332,Xaver Sabitzer,Austria,Midfielder,3,0.048484848,6
+P00333,David Muhl,Austria,Forward,5,0.074545455,21
+P00334,Marcel Bavoli,Austria,Forward,5,0.071515152,17
+P00335,Marko Kick,Austria,Forward,3,0.036363636,14
+P00336,Konrad Sabitzer,Austria,Forward,4,0.033333333,8
+P00337,Stefan Lainer,Austria,Forward,11,0.096969697,33
+P00338,Maximilian Baumgartlinger,Austria,Forward,3,0.028181818,9
+P00339,Robert Zielinski,Poland,Goalkeeper,0,0,0
+P00340,Piotr Glik,Poland,Goalkeeper,0,0,0
+P00341,Jan Milik,Poland,Goalkeeper,0,0,0
+P00342,Robert Krychowiak,Poland,Defender,0,0.001538462,1
+P00343,Piotr Szymanski,Poland,Defender,1,0.005384615,0
+P00344,Jan Bednarek,Poland,Defender,1,0.001794872,0
+P00345,Arkadiusz Dawidowicz,Poland,Defender,0,0.000512821,0
+P00346,Grzegorz Piatek,Poland,Defender,2,0.002307692,0
+P00347,Krzysztof Grosicki,Poland,Defender,2,0.000769231,1
+P00348,Mateusz Frankowski,Poland,Defender,1,0.000512821,1
+P00349,Jakub Helik,Poland,Defender,1,0.001025641,2
+P00350,Kamil Jozwiak,Poland,Defender,1,0.000512821,2
+P00351,Robert Swierczok,Poland,Midfielder,5,0.017179487,13
+P00352,Piotr Cash,Poland,Midfielder,1,0.011794872,11
+P00353,Jan Rybus,Poland,Midfielder,1,0.013076923,6
+P00354,Arkadiusz Puchacz,Poland,Midfielder,1,0.005128205,3
+P00355,Grzegorz Skoras,Poland,Midfielder,0,0.009230769,10
+P00356,Krzysztof Urbański,Poland,Midfielder,2,0.017179487,5
+P00357,Mateusz Kozlowski,Poland,Midfielder,5,0.00974359,19
+P00358,Jakub Zielinski,Poland,Midfielder,4,0.020512821,14
+P00359,Robert Skoras,Poland,Forward,3,0.048717949,19
+P00360,Piotr Urbański,Poland,Forward,5,0.016923077,4
+P00361,Jan Kozlowski,Poland,Forward,3,0.025897436,8
+P00362,Arkadiusz Zielinski,Poland,Forward,5,0.047948718,12
+P00363,Grzegorz Glik,Poland,Forward,4,0.067179487,14
+P00364,Krzysztof Milik,Poland,Forward,3,0.063076923,16
+P00365,Dejan Isak,Sweden,Goalkeeper,0,0,1
+P00366,Alexander Lindelof,Sweden,Goalkeeper,0,0,0
+P00367,Emil Olsson,Sweden,Goalkeeper,0,0,0
+P00368,Dejan Augustinsson,Sweden,Defender,0,0.000277778,1
+P00369,Alexander Ekdal,Sweden,Defender,0,0.001111111,0
+P00370,Emil Berg,Sweden,Defender,0,0,0
+P00371,Viktor Krafth,Sweden,Defender,2,0.000833333,0
+P00372,Robin Björkman,Sweden,Defender,0,0.0025,0
+P00373,Ludwig Elanga,Sweden,Defender,1,0.001388889,1
+P00374,Mattias Karlsson,Sweden,Defender,5,0.000833333,0
+P00375,Karl Kristoffersen,Sweden,Defender,0,0.000555556,1
+P00376,Filip Daka,Sweden,Defender,0,0.001944444,0
+P00377,Dejan Gustafson,Sweden,Midfielder,2,0.006944444,5
+P00378,Alexander Ndicka,Sweden,Midfielder,1,0.011944444,5
+P00379,Emil Garcia,Sweden,Midfielder,5,0.001666667,8
+P00380,Viktor Holm,Sweden,Midfielder,5,0.006388889,9
+P00381,Robin Wahlqvist,Sweden,Midfielder,3,0.011666667,7
+P00382,Ludwig Hiljemark,Sweden,Midfielder,1,0.003055556,5
+P00383,Mattias Ljungberg,Sweden,Midfielder,3,0.010833333,3
+P00384,Karl Isak,Sweden,Midfielder,2,0.011944444,3
+P00385,Dejan Wahlqvist,Sweden,Forward,6,0.033611111,8
+P00386,Alexander Hiljemark,Sweden,Forward,1,0.038611111,6
+P00387,Emil Ljungberg,Sweden,Forward,6,0.061111111,19
+P00388,Viktor Isak,Sweden,Forward,7,0.050555556,13
+P00389,Robin Lindelof,Sweden,Forward,1,0.029722222,5
+P00390,Ludwig Olsson,Sweden,Forward,8,0.066944444,26
+P00391,Hakan Under,Turkey,Goalkeeper,0,0,0
+P00392,Cengiz Soyuncu,Turkey,Goalkeeper,0,0,2
+P00393,Merih Turan,Turkey,Goalkeeper,0,0,0
+P00394,Hakan Yilmaz,Turkey,Defender,0,0.0002,0
+P00395,Cengiz Kahveci,Turkey,Defender,1,0.0008,0
+P00396,Merih Kokcu,Turkey,Defender,0,0.0036,0
+P00397,Caglar Guler,Turkey,Defender,1,0.0016,0
+P00398,Burak Tufan,Turkey,Defender,1,0.0006,0
+P00399,Enes Celik,Turkey,Defender,1,0.0012,0
+P00400,Yusuf Kilicsoy,Turkey,Defender,1,0.0004,0
+P00401,Irfan Enes,Turkey,Defender,1,0.0016,1
+P00402,Orkun Bayindir,Turkey,Defender,3,0.0026,0
+P00403,Hakan Ucar,Turkey,Midfielder,2,0.0212,9
+P00404,Cengiz Muldur,Turkey,Midfielder,2,0.01,8
+P00405,Merih Yildiz,Turkey,Midfielder,3,0.0088,8
+P00406,Caglar Abdul,Turkey,Midfielder,0,0.0196,7
+P00407,Burak Cengiz,Turkey,Midfielder,2,0.0146,3
+P00408,Enes Gonul,Turkey,Midfielder,3,0.0248,8
+P00409,Yusuf Unal,Turkey,Midfielder,3,0.0114,6
+P00410,Irfan Under,Turkey,Midfielder,5,0.0134,19
+P00411,Hakan Cengiz,Turkey,Forward,5,0.0498,19
+P00412,Cengiz Gonul,Turkey,Forward,9,0.0528,31
+P00413,Merih Unal,Turkey,Forward,2,0.0176,9
+P00414,Caglar Under,Turkey,Forward,10,0.047,17
+P00415,Burak Soyuncu,Turkey,Forward,5,0.0694,26
+P00416,Enes Turan,Turkey,Forward,5,0.0522,20
+P00417,Andriy Zinchenko,Ukraine,Goalkeeper,0,0,0
+P00418,Oleksandr Tsygankov,Ukraine,Goalkeeper,0,0,0
+P00419,Mykhailo Sudakov,Ukraine,Goalkeeper,0,0,0
+P00420,Andriy Dovbyk,Ukraine,Defender,0,0.004210526,0
+P00421,Oleksandr Shaparenko,Ukraine,Defender,0,0.003421053,1
+P00422,Mykhailo Zabarnyi,Ukraine,Defender,0,0.001578947,1
+P00423,Viktor Karavaev,Ukraine,Defender,3,0.002105263,0
+P00424,Artem Lunin,Ukraine,Defender,0,0.006052632,0
+P00425,Ruslan Makarenko,Ukraine,Defender,1,0.001052632,0
+P00426,Yevhen Yaremchuk,Ukraine,Defender,2,0.001578947,0
+P00427,Dmytro Kovalenko,Ukraine,Defender,1,0,0
+P00428,Oleksiy Sobol,Ukraine,Defender,0,0.000263158,0
+P00429,Andriy Bushchan,Ukraine,Midfielder,4,0.022368421,13
+P00430,Oleksandr Sydorchuk,Ukraine,Midfielder,4,0.006315789,9
+P00431,Mykhailo Besedin,Ukraine,Midfielder,0,0.007368421,5
+P00432,Viktor Stepanenko,Ukraine,Midfielder,2,0.021842105,7
+P00433,Artem Bolbat,Ukraine,Midfielder,2,0.013684211,4
+P00434,Ruslan Bondarenko,Ukraine,Midfielder,0,0.036578947,8
+P00435,Yevhen Kryvtsov,Ukraine,Midfielder,3,0.017368421,15
+P00436,Dmytro Zinchenko,Ukraine,Midfielder,1,0.017631579,5
+P00437,Andriy Bolbat,Ukraine,Forward,2,0.043421053,6
+P00438,Oleksandr Bondarenko,Ukraine,Forward,11,0.034736842,17
+P00439,Mykhailo Kryvtsov,Ukraine,Forward,3,0.032894737,7
+P00440,Viktor Zinchenko,Ukraine,Forward,2,0.016315789,8
+P00441,Artem Tsygankov,Ukraine,Forward,3,0.037368421,11
+P00442,Ruslan Sudakov,Ukraine,Forward,7,0.033421053,8
+P00443,Andrew McTominay,Scotland,Goalkeeper,0,0,0
+P00444,Scott McGregor,Scotland,Goalkeeper,0,0,0
+P00445,John Gilmour,Scotland,Goalkeeper,0,0,0
+P00446,Andrew Adams,Scotland,Defender,1,0.001836735,1
+P00447,Scott Patterson,Scotland,Defender,1,0.001836735,0
+P00448,John Hanley,Scotland,Defender,0,0.003061224,1
+P00449,Stuart Hendry,Scotland,Defender,0,0.002040816,1
+P00450,Graeme Doak,Scotland,Defender,0,0.00122449,2
+P00451,Liam Turnbull,Scotland,Defender,0,0.003673469,1
+P00452,Ryan Forrest,Scotland,Defender,1,0.001020408,1
+P00453,Callum Christie,Scotland,Defender,1,0.000816327,1
+P00454,Kieran Dykes,Scotland,Defender,2,0,0
+P00455,Andrew Ferguson,Scotland,Midfielder,5,0.01122449,14
+P00456,Scott Lewis,Scotland,Midfielder,1,0.012244898,7
+P00457,John Armstrong,Scotland,Midfielder,4,0.012244898,21
+P00458,Stuart Shankland,Scotland,Midfielder,0,0.025306122,7
+P00459,Graeme Jack,Scotland,Midfielder,0,0.004285714,0
+P00460,Liam Gallagher,Scotland,Midfielder,3,0.015918367,8
+P00461,Ryan Clark,Scotland,Midfielder,5,0.01877551,20
+P00462,Callum McTominay,Scotland,Midfielder,7,0.011020408,15
+P00463,Andrew Jack,Scotland,Forward,12,0.057346939,31
+P00464,Scott Gallagher,Scotland,Forward,8,0.061020408,20
+P00465,John Clark,Scotland,Forward,4,0.043673469,17
+P00466,Stuart McTominay,Scotland,Forward,12,0.107755102,29
+P00467,Graeme McGregor,Scotland,Forward,2,0.038571429,9
+P00468,Liam Gilmour,Scotland,Forward,3,0.053469388,19
+P00469,Neymar Junior,Brazil,Goalkeeper,0,0,0
+P00470,Vinicius Martins,Brazil,Goalkeeper,0,0,1
+P00471,Rodrygo Paqueta,Brazil,Goalkeeper,0,0,0
+P00472,Neymar Mendes,Brazil,Defender,1,0.000222222,0
+P00473,Vinicius Guimaraes,Brazil,Defender,0,0.000888889,0
+P00474,Rodrygo Fabinho,Brazil,Defender,0,0.002666667,1
+P00475,Gabriel Alisson,Brazil,Defender,0,0.002,0
+P00476,Casemiro Alexandre,Brazil,Defender,1,0.006,0
+P00477,Marquinhos Santos,Brazil,Defender,0,0.002,0
+P00478,Alisson Oliveira,Brazil,Defender,1,0.000666667,2
+P00479,Richarlison Ferreira,Brazil,Defender,1,0.001333333,1
+P00480,Bruno Lima,Brazil,Defender,0,0.000888889,0
+P00481,Neymar Pereira,Brazil,Midfielder,1,0.003555556,7
+P00482,Vinicius Moreira,Brazil,Midfielder,2,0.007555556,8
+P00483,Rodrygo Costa,Brazil,Midfielder,0,0.022888889,5
+P00484,Gabriel Souza,Brazil,Midfielder,1,0.021777778,10
+P00485,Casemiro Carvalho,Brazil,Midfielder,0,0.016,7
+P00486,Marquinhos Nunes,Brazil,Midfielder,3,0.014,9
+P00487,Alisson Reis,Brazil,Midfielder,3,0.008444444,3
+P00488,Richarlison Junior,Brazil,Midfielder,1,0.037111111,10
+P00489,Neymar Carvalho,Brazil,Forward,6,0.027555556,9
+P00490,Vinicius Nunes,Brazil,Forward,15,0.110888889,23
+P00491,Rodrygo Reis,Brazil,Forward,6,0.027555556,12
+P00492,Gabriel Junior,Brazil,Forward,8,0.020444444,9
+P00493,Casemiro Martins,Brazil,Forward,8,0.031333333,15
+P00494,Marquinhos Paqueta,Brazil,Forward,5,0.064,13
+P00495,Lionel Alvarez,Argentina,Goalkeeper,0,0,1
+P00496,Julian De Paul,Argentina,Goalkeeper,0,0,0
+P00497,Emiliano Di Maria,Argentina,Goalkeeper,0,0,0
+P00498,Lionel Martinez,Argentina,Defender,0,0.007647059,0
+P00499,Julian Paredes,Argentina,Defender,0,0.000294118,1
+P00500,Emiliano Mac Allister,Argentina,Defender,3,0.002058824,0
+P00501,Rodrigo Lo Celso,Argentina,Defender,0,0.009117647,0
+P00502,Lautaro Tagliafico,Argentina,Defender,0,0.001764706,0
+P00503,Angel Gonzalez,Argentina,Defender,0,0.000882353,1
+P00504,Leandro Pezzella,Argentina,Defender,1,0.000294118,0
+P00505,Nahuel Correa,Argentina,Defender,0,0.000882353,1
+P00506,Alexis Almada,Argentina,Defender,1,0.001176471,1
+P00507,Lionel Montiel,Argentina,Midfielder,2,0.009705882,3
+P00508,Julian Dybala,Argentina,Midfielder,0,0.002941176,6
+P00509,Emiliano Acuna,Argentina,Midfielder,1,0.014705882,10
+P00510,Rodrigo Fernandez,Argentina,Midfielder,2,0.052352941,15
+P00511,Lautaro Sosa,Argentina,Midfielder,2,0.050294118,19
+P00512,Angel Garay,Argentina,Midfielder,1,0.016176471,15
+P00513,Leandro Balerdi,Argentina,Midfielder,2,0.008823529,3
+P00514,Nahuel Alvarez,Argentina,Midfielder,0,0.010588235,7
+P00515,Lionel Sosa,Argentina,Forward,2,0.011470588,5
+P00516,Julian Garay,Argentina,Forward,8,0.086176471,20
+P00517,Emiliano Balerdi,Argentina,Forward,6,0.019705882,2
+P00518,Rodrigo Alvarez,Argentina,Forward,4,0.039705882,9
+P00519,Lautaro De Paul,Argentina,Forward,7,0.054411765,20
+P00520,Angel Di Maria,Argentina,Forward,4,0.070588235,14
+P00521,Luis Rodriguez,Colombia,Goalkeeper,0,0,2
+P00522,James Mina,Colombia,Goalkeeper,0,0,0
+P00523,Duvan Cuadrado,Colombia,Goalkeeper,0,0,2
+P00524,Luis Sanchez,Colombia,Defender,1,0.002608696,0
+P00525,James Ospina,Colombia,Defender,1,0.000869565,0
+P00526,Duvan Lerma,Colombia,Defender,0,0.000217391,0
+P00527,Yerry Barrios,Colombia,Defender,2,0.001521739,1
+P00528,Davinson Borja,Colombia,Defender,0,0.008043478,0
+P00529,Juan Quintero,Colombia,Defender,0,0.003478261,2
+P00530,Radamel Cuesta,Colombia,Defender,0,0.001521739,0
+P00531,Jefferson Chara,Colombia,Defender,0,0.000434783,1
+P00532,David Lucumi,Colombia,Defender,1,0.001956522,0
+P00533,Luis Sinisterra,Colombia,Midfielder,1,0.012173913,3
+P00534,James Morelos,Colombia,Midfielder,3,0.02826087,17
+P00535,Duvan Tesillo,Colombia,Midfielder,2,0.015217391,6
+P00536,Yerry Cantillo,Colombia,Midfielder,1,0.011956522,6
+P00537,Davinson Villa,Colombia,Midfielder,5,0.01326087,16
+P00538,Juan Munoz,Colombia,Midfielder,5,0.011521739,9
+P00539,Radamel Rios,Colombia,Midfielder,3,0.021521739,16
+P00540,Jefferson Rodriguez,Colombia,Midfielder,2,0.036521739,19
+P00541,Luis Villa,Colombia,Forward,3,0.03326087,6
+P00542,James Munoz,Colombia,Forward,1,0.027826087,12
+P00543,Duvan Rios,Colombia,Forward,6,0.040869565,24
+P00544,Yerry Rodriguez,Colombia,Forward,9,0.027826087,10
+P00545,Davinson Mina,Colombia,Forward,7,0.056956522,30
+P00546,Juan Cuadrado,Colombia,Forward,8,0.04826087,20
+P00547,Alexis Vidal,Chile,Goalkeeper,0,0,0
+P00548,Arturo Brereton,Chile,Goalkeeper,0,0,0
+P00549,Gary Isla,Chile,Goalkeeper,0,0,0
+P00550,Alexis Pulgar,Chile,Defender,1,0.001621622,1
+P00551,Arturo Aranguiz,Chile,Defender,0,0.004054054,0
+P00552,Gary Diaz,Chile,Defender,1,0,1
+P00553,Ben Sierralta,Chile,Defender,0,0.00027027,1
+P00554,Erick Mena,Chile,Defender,0,0.001891892,0
+P00555,Mauricio Montes,Chile,Defender,0,0.000540541,0
+P00556,Jean Zavala,Chile,Defender,2,0.000810811,1
+P00557,Paulo Albornoz,Chile,Defender,0,0,1
+P00558,Claudio Pavez,Chile,Defender,1,0.00027027,0
+P00559,Alexis Lasarte,Chile,Midfielder,1,0.006756757,4
+P00560,Arturo Fuentes,Chile,Midfielder,3,0.014864865,9
+P00561,Gary Villanueva,Chile,Midfielder,3,0.020540541,17
+P00562,Ben Castillo,Chile,Midfielder,1,0.003783784,3
+P00563,Erick Valdivia,Chile,Midfielder,1,0.008918919,2
+P00564,Mauricio Riquelme,Chile,Midfielder,0,0.010540541,7
+P00565,Jean Delgado,Chile,Midfielder,3,0.027297297,6
+P00566,Paulo Vidal,Chile,Midfielder,3,0.010810811,7
+P00567,Alexis Valdivia,Chile,Forward,3,0.090810811,20
+P00568,Arturo Riquelme,Chile,Forward,1,0.027837838,9
+P00569,Gary Delgado,Chile,Forward,1,0.065405405,10
+P00570,Ben Vidal,Chile,Forward,5,0.02972973,7
+P00571,Erick Brereton,Chile,Forward,2,0.014864865,12
+P00572,Mauricio Isla,Chile,Forward,4,0.023243243,9
+P00573,Luis Cavani,Uruguay,Goalkeeper,0,0,1
+P00574,Edinson Gimenez,Uruguay,Goalkeeper,0,0,1
+P00575,Federico Bentancur,Uruguay,Goalkeeper,0,0,0
+P00576,Luis Araujo,Uruguay,Defender,1,0.001333333,1
+P00577,Edinson Nandez,Uruguay,Defender,0,0,0
+P00578,Federico Coates,Uruguay,Defender,1,0.001777778,0
+P00579,Jose Torreira,Uruguay,Defender,1,0.000222222,1
+P00580,Ronald De Arrascaeta,Uruguay,Defender,1,0.000888889,1
+P00581,Sebastian Nunez,Uruguay,Defender,0,0.000888889,0
+P00582,Rodrigo Olivera,Uruguay,Defender,0,0.000888889,0
+P00583,Diego Vina,Uruguay,Defender,1,0,1
+P00584,Nahitan Canobbio,Uruguay,Defender,3,0.002,0
+P00585,Luis Pellistri,Uruguay,Midfielder,4,0.031333333,10
+P00586,Edinson Ugarte,Uruguay,Midfielder,2,0.010222222,5
+P00587,Federico Caceres,Uruguay,Midfielder,4,0.017555556,9
+P00588,Jose Rodriguez,Uruguay,Midfielder,3,0.021111111,12
+P00589,Ronald Varela,Uruguay,Midfielder,1,0.019111111,6
+P00590,Sebastian Torres,Uruguay,Midfielder,4,0.019111111,13
+P00591,Rodrigo Trezeguet,Uruguay,Midfielder,1,0.013777778,1
+P00592,Diego Cavani,Uruguay,Midfielder,4,0.012222222,4
+P00593,Luis Varela,Uruguay,Forward,2,0.016888889,15
+P00594,Edinson Torres,Uruguay,Forward,7,0.089777778,13
+P00595,Federico Trezeguet,Uruguay,Forward,10,0.034888889,24
+P00596,Jose Cavani,Uruguay,Forward,10,0.056,26
+P00597,Ronald Gimenez,Uruguay,Forward,3,0.015111111,11
+P00598,Sebastian Bentancur,Uruguay,Forward,6,0.021555556,5
+P00599,Enner Caicedo,Ecuador,Goalkeeper,0,0,0
+P00600,Moises Mena,Ecuador,Goalkeeper,0,0,0
+P00601,Pervis Preciado,Ecuador,Goalkeeper,0,0,1
+P00602,Enner Hincapie,Ecuador,Defender,2,0.001489362,1
+P00603,Moises Torres,Ecuador,Defender,0,0.002765957,0
+P00604,Pervis Gruezo,Ecuador,Defender,0,0.003404255,1
+P00605,Angel Plata,Ecuador,Defender,0,0.001914894,0
+P00606,Gonzalo Ramirez,Ecuador,Defender,1,0.001489362,1
+P00607,Sebastian Angulo,Ecuador,Defender,0,0.000851064,0
+P00608,Diego Pacho,Ecuador,Defender,0,0.000212766,0
+P00609,Felix Rodriguez,Ecuador,Defender,0,0.002978723,0
+P00610,Jackson Canga,Ecuador,Defender,2,0,1
+P00611,Enner Ibarra,Ecuador,Midfielder,0,0.009148936,3
+P00612,Moises Minda,Ecuador,Midfielder,0,0.010638298,4
+P00613,Pervis Palacios,Ecuador,Midfielder,0,0.013829787,17
+P00614,Angel Intriago,Ecuador,Midfielder,2,0.008085106,8
+P00615,Gonzalo Zapata,Ecuador,Midfielder,0,0.004680851,5
+P00616,Sebastian Pellerano,Ecuador,Midfielder,2,0.00893617,7
+P00617,Diego Molina,Ecuador,Midfielder,0,0.012340426,9
+P00618,Felix Caicedo,Ecuador,Midfielder,2,0.022553191,7
+P00619,Enner Zapata,Ecuador,Forward,4,0.031489362,8
+P00620,Moises Pellerano,Ecuador,Forward,11,0.059787234,23
+P00621,Pervis Molina,Ecuador,Forward,4,0.031914894,14
+P00622,Angel Caicedo,Ecuador,Forward,10,0.028085106,17
+P00623,Gonzalo Mena,Ecuador,Forward,9,0.026170213,15
+P00624,Sebastian Preciado,Ecuador,Forward,5,0.025531915,9
+P00625,Paolo Lapadula,Peru,Goalkeeper,0,0,0
+P00626,Gianluca Advincula,Peru,Goalkeeper,0,0,1
+P00627,Pedro Cueva,Peru,Goalkeeper,0,0,0
+P00628,Paolo Carrillo,Peru,Defender,0,0.001458333,0
+P00629,Gianluca Tapia,Peru,Defender,0,0.000625,0
+P00630,Pedro Callens,Peru,Defender,0,0,4
+P00631,Luis Abram,Peru,Defender,3,0.00125,1
+P00632,André Yotun,Peru,Defender,1,0.001458333,0
+P00633,Christian Valera,Peru,Defender,0,0,0
+P00634,Renato Traverso,Peru,Defender,2,0.001041667,0
+P00635,Sergio Lora,Peru,Defender,4,0.001666667,0
+P00636,Alexander Hohberg,Peru,Defender,0,0.001458333,0
+P00637,Paolo Flores,Peru,Midfielder,0,0.019791667,11
+P00638,Gianluca Peña,Peru,Midfielder,4,0.013958333,14
+P00639,Pedro Garcia,Peru,Midfielder,0,0.00625,2
+P00640,Luis Cartagena,Peru,Midfielder,3,0.02125,10
+P00641,André Gonzalez,Peru,Midfielder,3,0.008125,6
+P00642,Christian Urruti,Peru,Midfielder,5,0.034791667,12
+P00643,Renato Lliuya,Peru,Midfielder,1,0.0175,8
+P00644,Sergio Lapadula,Peru,Midfielder,4,0.018541667,11
+P00645,Paolo Gonzalez,Peru,Forward,13,0.112083333,50
+P00646,Gianluca Urruti,Peru,Forward,6,0.050833333,8
+P00647,Pedro Lliuya,Peru,Forward,2,0.059791667,9
+P00648,Luis Lapadula,Peru,Forward,5,0.033125,6
+P00649,André Advincula,Peru,Forward,7,0.040833333,26
+P00650,Christian Cueva,Peru,Forward,4,0.030833333,16
+P00651,Christian McKennie,United States,Goalkeeper,0,0,0
+P00652,Weston Adams,United States,Goalkeeper,0,0,1
+P00653,Giovanni Weah,United States,Goalkeeper,0,0,2
+P00654,Christian Robinson,United States,Defender,1,0,0
+P00655,Weston Dest,United States,Defender,1,0.001842105,1
+P00656,Giovanni Musah,United States,Defender,0,0.000526316,0
+P00657,Tyler Balogan,United States,Defender,0,0.001315789,0
+P00658,Antonee Carter-Vickers,United States,Defender,1,0.000789474,0
+P00659,Timothy Zimmerman,United States,Defender,0,0.000263158,0
+P00660,Sergino Busio,United States,Defender,1,0.000789474,0
+P00661,Brenden Pepi,United States,Defender,0,0.004473684,1
+P00662,Yunus Robinson,United States,Defender,2,0.000263158,0
+P00663,Christian Sargent,United States,Midfielder,1,0.012105263,13
+P00664,Weston Acosta,United States,Midfielder,2,0.019210526,6
+P00665,Giovanni Tillman,United States,Midfielder,2,0.047105263,18
+P00666,Tyler Morris,United States,Midfielder,2,0.010526316,9
+P00667,Antonee Horvath,United States,Midfielder,2,0.012631579,8
+P00668,Timothy Yedlin,United States,Midfielder,1,0.007368421,8
+P00669,Sergino Hoppe,United States,Midfielder,2,0.027894737,11
+P00670,Brenden McKennie,United States,Midfielder,1,0.005789474,13
+P00671,Christian Horvath,United States,Forward,4,0.035,12
+P00672,Weston Yedlin,United States,Forward,4,0.037894737,17
+P00673,Giovanni Hoppe,United States,Forward,9,0.057631579,30
+P00674,Tyler McKennie,United States,Forward,2,0.019210526,5
+P00675,Antonee Adams,United States,Forward,3,0.034736842,15
+P00676,Timothy Weah,United States,Forward,12,0.033421053,14
+P00677,Santiago Lozano,Mexico,Goalkeeper,0,0,1
+P00678,Hirving Alvarez,Mexico,Goalkeeper,0,0,1
+P00679,Raul Lainez,Mexico,Goalkeeper,0,0,0
+P00680,Santiago Corona,Mexico,Defender,1,0.00175,1
+P00681,Hirving Ochoa,Mexico,Defender,4,0.00175,1
+P00682,Raul Herrera,Mexico,Defender,1,0.00525,1
+P00683,Edson Layun,Mexico,Defender,1,0.00175,0
+P00684,Jesus Gutierrez,Mexico,Defender,0,0.002,1
+P00685,Diego Vega,Mexico,Defender,1,0.00075,0
+P00686,Guillermo Almada,Mexico,Defender,1,0.0015,0
+P00687,Jorge Cordova,Mexico,Defender,1,0.00925,0
+P00688,Hector Vasquez,Mexico,Defender,0,0.00175,1
+P00689,Santiago Araujo,Mexico,Midfielder,0,0.006,6
+P00690,Hirving Pineda,Mexico,Midfielder,1,0.003,3
+P00691,Raul Antuna,Mexico,Midfielder,1,0.0145,9
+P00692,Edson Martinez,Mexico,Midfielder,3,0.0105,8
+P00693,Jesus Reyes,Mexico,Midfielder,6,0.017,18
+P00694,Diego Romo,Mexico,Midfielder,3,0.02875,4
+P00695,Guillermo Torres,Mexico,Midfielder,2,0.00525,8
+P00696,Jorge Lozano,Mexico,Midfielder,1,0.00325,7
+P00697,Santiago Reyes,Mexico,Forward,3,0.03175,9
+P00698,Hirving Romo,Mexico,Forward,5,0.026,9
+P00699,Raul Torres,Mexico,Forward,11,0.0515,44
+P00700,Edson Lozano,Mexico,Forward,9,0.07975,19
+P00701,Jesus Alvarez,Mexico,Forward,0,0.017,5
+P00702,Diego Lainez,Mexico,Forward,6,0.02925,12
+P00703,Alphonso David,Canada,Goalkeeper,0,0,0
+P00704,Jonathan Eustaquio,Canada,Goalkeeper,0,0,0
+P00705,Cyle Buchanan,Canada,Goalkeeper,0,0,2
+P00706,Alphonso Johnston,Canada,Defender,2,0,1
+P00707,Jonathan Adekugbe,Canada,Defender,0,0.00375,1
+P00708,Cyle Borjan,Canada,Defender,0,0.002708333,0
+P00709,Stephen Miller,Canada,Defender,0,0.000416667,0
+P00710,Alistair Fraser,Canada,Defender,0,0.000625,0
+P00711,Tajon Utoikamanu,Canada,Defender,1,0.003541667,0
+P00712,Sam Hoilett,Canada,Defender,0,0.001458333,0
+P00713,Liam Cornelius,Canada,Defender,1,0.00375,1
+P00714,Richie Bomba,Canada,Defender,0,0.001875,0
+P00715,Alphonso Wotherspoon,Canada,Midfielder,2,0.03,18
+P00716,Jonathan Cavallini,Canada,Midfielder,2,0.010833333,8
+P00717,Cyle Waterman,Canada,Midfielder,1,0.010625,5
+P00718,Stephen Kennedy,Canada,Midfielder,3,0.013333333,19
+P00719,Alistair Piette,Canada,Midfielder,2,0.011666667,5
+P00720,Tajon Zator,Canada,Midfielder,2,0.008333333,6
+P00721,Sam James,Canada,Midfielder,4,0.027916667,22
+P00722,Liam David,Canada,Midfielder,4,0.006666667,9
+P00723,Alphonso Piette,Canada,Forward,7,0.042291667,25
+P00724,Jonathan Zator,Canada,Forward,5,0.035,9
+P00725,Cyle James,Canada,Forward,4,0.038333333,14
+P00726,Stephen David,Canada,Forward,9,0.047708333,27
+P00727,Alistair Eustaquio,Canada,Forward,5,0.0675,26
+P00728,Tajon Buchanan,Canada,Forward,9,0.050416667,27
+P00729,Keylor Campbell,Costa Rica,Goalkeeper,0,0,0
+P00730,Joel Borges,Costa Rica,Goalkeeper,0,0,1
+P00731,Bryan Duarte,Costa Rica,Goalkeeper,0,0,1
+P00732,Keylor Calvo,Costa Rica,Defender,0,0.000652174,0
+P00733,Joel Oviedo,Costa Rica,Defender,0,0.000869565,0
+P00734,Bryan Matarrita,Costa Rica,Defender,0,0.000217391,0
+P00735,Celso Tejeda,Costa Rica,Defender,1,0.002173913,1
+P00736,Francisco Wallace,Costa Rica,Defender,0,0.001956522,1
+P00737,Randal Brenes,Costa Rica,Defender,1,0.000869565,1
+P00738,Patrick Alvarado,Costa Rica,Defender,1,0.000434783,1
+P00739,Oscar Chacon,Costa Rica,Defender,1,0.003913043,0
+P00740,Ronald Haxiel,Costa Rica,Defender,0,0.001521739,1
+P00741,Keylor Watson,Costa Rica,Midfielder,5,0.011956522,11
+P00742,Joel Soto,Costa Rica,Midfielder,3,0.01,6
+P00743,Bryan Leiton,Costa Rica,Midfielder,2,0.004565217,14
+P00744,Celso Zuniga,Costa Rica,Midfielder,0,0.008913043,4
+P00745,Francisco Aguilar,Costa Rica,Midfielder,0,0.030434783,9
+P00746,Randal Salas,Costa Rica,Midfielder,1,0.007173913,3
+P00747,Patrick Vargas,Costa Rica,Midfielder,9,0.06326087,26
+P00748,Oscar Campbell,Costa Rica,Midfielder,2,0.01326087,2
+P00749,Keylor Aguilar,Costa Rica,Forward,7,0.04326087,21
+P00750,Joel Salas,Costa Rica,Forward,7,0.041086957,11
+P00751,Bryan Vargas,Costa Rica,Forward,3,0.041521739,24
+P00752,Celso Campbell,Costa Rica,Forward,12,0.075869565,26
+P00753,Francisco Borges,Costa Rica,Forward,7,0.017173913,9
+P00754,Randal Duarte,Costa Rica,Forward,14,0.060217391,20
+P00755,Leon Antonio,Jamaica,Goalkeeper,0,0,1
+P00756,Michail Gray,Jamaica,Goalkeeper,0,0,0
+P00757,Bobby Hector,Jamaica,Goalkeeper,0,0,0
+P00758,Leon Lowe,Jamaica,Defender,1,0.002881356,1
+P00759,Michail Pinnock,Jamaica,Defender,0,0.006101695,1
+P00760,Bobby Lawrence,Jamaica,Defender,2,0.003728814,0
+P00761,Andre Johnson,Jamaica,Defender,3,0.00220339,1
+P00762,Damion Marshall,Jamaica,Defender,2,0.000508475,1
+P00763,Kasey Dickinson,Jamaica,Defender,3,0.000508475,0
+P00764,Adrian Simpson,Jamaica,Defender,1,0.001525424,1
+P00765,Shamar Gordon,Jamaica,Defender,2,0.000508475,0
+P00766,Alvas Holness,Jamaica,Defender,0,0.000508475,0
+P00767,Leon Grant,Jamaica,Midfielder,3,0.013728814,3
+P00768,Michail McCarey,Jamaica,Midfielder,2,0.019322034,18
+P00769,Bobby Lambert,Jamaica,Midfielder,2,0.012542373,8
+P00770,Andre Ricketts,Jamaica,Midfielder,4,0.019152542,14
+P00771,Damion Bishop,Jamaica,Midfielder,2,0.008644068,20
+P00772,Kasey Williams,Jamaica,Midfielder,2,0.010508475,13
+P00773,Adrian Rodrigues,Jamaica,Midfielder,1,0.00440678,7
+P00774,Shamar Antonio,Jamaica,Midfielder,3,0.017457627,15
+P00775,Leon Bishop,Jamaica,Forward,4,0.044237288,25
+P00776,Michail Williams,Jamaica,Forward,3,0.041186441,15
+P00777,Bobby Rodrigues,Jamaica,Forward,4,0.025084746,6
+P00778,Andre Antonio,Jamaica,Forward,8,0.035423729,24
+P00779,Damion Gray,Jamaica,Forward,11,0.031525424,21
+P00780,Kasey Hector,Jamaica,Forward,16,0.049152542,43
+P00781,Anibal Rodriguez,Panama,Goalkeeper,0,0,0
+P00782,Jose Davis,Panama,Goalkeeper,0,0,0
+P00783,Michael Cooper,Panama,Goalkeeper,0,0,0
+P00784,Anibal Barcenas,Panama,Defender,0,0.004255319,2
+P00785,Jose Omar,Panama,Defender,2,0.008510638,1
+P00786,Michael Escobar,Panama,Defender,0,0,0
+P00787,Eric Aguilar,Panama,Defender,1,0.00212766,1
+P00788,Abdiel Martinez,Panama,Defender,1,0.000851064,0
+P00789,Armando Cummings,Panama,Defender,0,0.000212766,1
+P00790,Harold Valenzuela,Panama,Defender,0,0.002978723,0
+P00791,Cesar Rojas,Panama,Defender,0,0.00106383,3
+P00792,Yoel Rodriguez,Panama,Defender,2,0.002765957,0
+P00793,Anibal Perez,Panama,Midfielder,5,0.012340426,25
+P00794,Jose Gomez,Panama,Midfielder,2,0.018723404,14
+P00795,Michael Gonzalez,Panama,Midfielder,5,0.017659574,7
+P00796,Eric Ortiz,Panama,Midfielder,6,0.009787234,8
+P00797,Abdiel Sanchez,Panama,Midfielder,2,0.00787234,6
+P00798,Armando Torres,Panama,Midfielder,2,0.008510638,4
+P00799,Harold Brown,Panama,Midfielder,2,0.028297872,11
+P00800,Cesar Rodriguez,Panama,Midfielder,8,0.035531915,13
+P00801,Anibal Sanchez,Panama,Forward,10,0.056382979,47
+P00802,Jose Torres,Panama,Forward,6,0.033404255,16
+P00803,Michael Brown,Panama,Forward,9,0.053617021,16
+P00804,Eric Rodriguez,Panama,Forward,15,0.045744681,45
+P00805,Abdiel Davis,Panama,Forward,3,0.03106383,8
+P00806,Armando Cooper,Panama,Forward,9,0.057021277,14
+P00807,Daichi Kubo,Japan,Goalkeeper,0,0,1
+P00808,Takefusa Endo,Japan,Goalkeeper,0,0,0
+P00809,Kaoru Kamada,Japan,Goalkeeper,0,0,1
+P00810,Daichi Doan,Japan,Defender,0,0.001111111,0
+P00811,Takefusa Tanaka,Japan,Defender,0,0.002777778,1
+P00812,Kaoru Yoshida,Japan,Defender,1,0.000833333,0
+P00813,Wataru Itakura,Japan,Defender,0,0,0
+P00814,Ritsu Ito,Japan,Defender,1,0.004166667,0
+P00815,Junya Furuhashi,Japan,Defender,0,0.001944444,0
+P00816,Ao Mori,Japan,Defender,1,0,0
+P00817,Ayase Suzuki,Japan,Defender,0,0.003888889,0
+P00818,Hiroki Ogawa,Japan,Defender,2,0.0025,1
+P00819,Daichi Asano,Japan,Midfielder,3,0.003888889,3
+P00820,Takefusa Hatate,Japan,Midfielder,2,0.001944444,4
+P00821,Kaoru Machida,Japan,Midfielder,2,0.013611111,4
+P00822,Wataru Ueda,Japan,Midfielder,0,0.009444444,3
+P00823,Ritsu Hashioka,Japan,Midfielder,1,0.005,5
+P00824,Junya Nakano,Japan,Midfielder,2,0.033333333,20
+P00825,Ao Shiotani,Japan,Midfielder,0,0.009722222,5
+P00826,Ayase Kubo,Japan,Midfielder,3,0.009722222,13
+P00827,Daichi Hashioka,Japan,Forward,9,0.050833333,25
+P00828,Takefusa Nakano,Japan,Forward,5,0.025,11
+P00829,Kaoru Shiotani,Japan,Forward,3,0.049444444,15
+P00830,Wataru Kubo,Japan,Forward,3,0.040277778,15
+P00831,Ritsu Endo,Japan,Forward,7,0.079166667,20
+P00832,Junya Kamada,Japan,Forward,4,0.021666667,9
+P00833,Son Hwang,South Korea,Goalkeeper,0,0,0
+P00834,Hee-chan Hwang,South Korea,Goalkeeper,0,0,1
+P00835,Min-jae Son,South Korea,Goalkeeper,0,0,1
+P00836,Son Lee,South Korea,Defender,1,0.000882353,0
+P00837,Hee-chan Hwang,South Korea,Defender,0,0,2
+P00838,Min-jae Kim,South Korea,Defender,2,0.000294118,0
+P00839,Jae-sung Park,South Korea,Defender,2,0.001470588,0
+P00840,In-beom Jung,South Korea,Defender,1,0.002941176,0
+P00841,Hwang Oh,South Korea,Defender,0,0.000294118,1
+P00842,Woo-young Na,South Korea,Defender,1,0.004117647,0
+P00843,Young-woo Jeong,South Korea,Defender,0,0.011470588,0
+P00844,Seung-gyu Lee,South Korea,Defender,0,0.001764706,0
+P00845,Son Hong,South Korea,Midfielder,3,0.012647059,14
+P00846,Hee-chan Kwon,South Korea,Midfielder,0,0.010882353,6
+P00847,Min-jae Song,South Korea,Midfielder,1,0.012941176,4
+P00848,Jae-sung Yang,South Korea,Midfielder,1,0.001470588,1
+P00849,In-beom Seol,South Korea,Midfielder,1,0.010294118,17
+P00850,Hwang Choi,South Korea,Midfielder,1,0.042058824,12
+P00851,Woo-young Ji,South Korea,Midfielder,0,0.007058824,1
+P00852,Young-woo Hwang,South Korea,Midfielder,1,0.002352941,4
+P00853,Son Seol,South Korea,Forward,2,0.009705882,5
+P00854,Hee-chan Choi,South Korea,Forward,4,0.029705882,8
+P00855,Min-jae Ji,South Korea,Forward,6,0.018235294,32
+P00856,Jae-sung Hwang,South Korea,Forward,4,0.026764706,16
+P00857,In-beom Hwang,South Korea,Forward,5,0.066764706,13
+P00858,Hwang Son,South Korea,Forward,2,0.042647059,6
+P00859,Mehdi Azmoun,Iran,Goalkeeper,0,0,0
+P00860,Sardar Ghoddos,Iran,Goalkeeper,0,0,1
+P00861,Alireza Hosseini,Iran,Goalkeeper,0,0,2
+P00862,Mehdi Hajsafi,Iran,Defender,0,0.001842105,0
+P00863,Sardar Ansarifard,Iran,Defender,1,0.002894737,1
+P00864,Alireza Rezaeian,Iran,Defender,1,0.001052632,0
+P00865,Saman Torabi,Iran,Defender,2,0.000789474,1
+P00866,Hidajat Noorollahi,Iran,Defender,0,0.000263158,1
+P00867,Ehsan Gholizadeh,Iran,Defender,0,0.000789474,1
+P00868,Karim Dejagah,Iran,Defender,1,0.001315789,0
+P00869,Morteza Karimi,Iran,Defender,0,0.000789474,1
+P00870,Ramin Moharrami,Iran,Defender,0,0,0
+P00871,Mehdi Arefi,Iran,Midfielder,6,0.033421053,20
+P00872,Sardar Heydari,Iran,Midfielder,2,0.009473684,10
+P00873,Alireza Shojaei,Iran,Midfielder,0,0.013421053,9
+P00874,Saman Abdollahzadeh,Iran,Midfielder,1,0.018947368,2
+P00875,Hidajat Hazbavi,Iran,Midfielder,3,0.011052632,9
+P00876,Ehsan Moradi,Iran,Midfielder,1,0.02,4
+P00877,Karim Nourollahi,Iran,Midfielder,2,0.007894737,3
+P00878,Morteza Azmoun,Iran,Midfielder,2,0.013157895,3
+P00879,Mehdi Hazbavi,Iran,Forward,9,0.088684211,28
+P00880,Sardar Moradi,Iran,Forward,5,0.050263158,16
+P00881,Alireza Nourollahi,Iran,Forward,9,0.057368421,23
+P00882,Saman Azmoun,Iran,Forward,13,0.058684211,15
+P00883,Hidajat Ghoddos,Iran,Forward,5,0.106842105,23
+P00884,Ehsan Hosseini,Iran,Forward,9,0.062368421,19
+P00885,Salem Al-Buraikan,Saudi Arabia,Goalkeeper,0,0,1
+P00886,Firas Al-Shahrani,Saudi Arabia,Goalkeeper,0,0,0
+P00887,Saleh Al-Otaibi,Saudi Arabia,Goalkeeper,0,0,0
+P00888,Salem Al-Faraj,Saudi Arabia,Defender,1,0.002884615,0
+P00889,Firas Al-Amri,Saudi Arabia,Defender,1,0.004038462,0
+P00890,Saleh Al-Ghamdi,Saudi Arabia,Defender,0,0.009230769,1
+P00891,Yasser Al-Owais,Saudi Arabia,Defender,0,0.002307692,0
+P00892,Mohammed Al-Breik,Saudi Arabia,Defender,2,0.002884615,2
+P00893,Abdulrahman Al-Hamdan,Saudi Arabia,Defender,5,0.008269231,2
+P00894,Hassan Al-Zahrani,Saudi Arabia,Defender,1,0.004038462,2
+P00895,Ali Al-Ghannam,Saudi Arabia,Defender,0,0.000769231,2
+P00896,Sultan Al-Mousa,Saudi Arabia,Defender,0,0.000192308,0
+P00897,Salem Al-Tambakti,Saudi Arabia,Midfielder,6,0.033846154,16
+P00898,Firas Al-Yami,Saudi Arabia,Midfielder,4,0.019230769,10
+P00899,Saleh Al-Abdulkarim,Saudi Arabia,Midfielder,0,0.008461538,4
+P00900,Yasser Al-Harbi,Saudi Arabia,Midfielder,3,0.0275,15
+P00901,Mohammed Al-Rubaie,Saudi Arabia,Midfielder,3,0.023653846,31
+P00902,Abdulrahman Al-Salem,Saudi Arabia,Midfielder,3,0.011153846,6
+P00903,Hassan Al-Qahtani,Saudi Arabia,Midfielder,4,0.019230769,13
+P00904,Ali Al-Buraikan,Saudi Arabia,Midfielder,3,0.025769231,22
+P00905,Salem Al-Rubaie,Saudi Arabia,Forward,6,0.017692308,5
+P00906,Firas Al-Salem,Saudi Arabia,Forward,6,0.068269231,13
+P00907,Saleh Al-Qahtani,Saudi Arabia,Forward,13,0.057115385,50
+P00908,Yasser Al-Buraikan,Saudi Arabia,Forward,6,0.045769231,20
+P00909,Mohammed Al-Shahrani,Saudi Arabia,Forward,9,0.0475,22
+P00910,Abdulrahman Al-Otaibi,Saudi Arabia,Forward,6,0.042307692,27
+P00911,Mathew Mooy,Australia,Goalkeeper,0,0,1
+P00912,Aaron Souttar,Australia,Goalkeeper,0,0,0
+P00913,Jackson Duke,Australia,Goalkeeper,0,0,0
+P00914,Mathew Behich,Australia,Defender,0,0.001914894,0
+P00915,Aaron Goodwin,Australia,Defender,1,0.001276596,1
+P00916,Jackson Baccus,Australia,Defender,0,0.001489362,1
+P00917,Harry Leckie,Australia,Defender,1,0.003191489,0
+P00918,Ajdin Rogic,Australia,Defender,0,0.00787234,0
+P00919,Keanu McGree,Australia,Defender,2,0.00106383,0
+P00920,Awer Tilio,Australia,Defender,0,0.001489362,0
+P00921,Craig Borges,Australia,Defender,1,0.000638298,1
+P00922,Mat Cummins,Australia,Defender,1,0.00106383,0
+P00923,Mathew Boyle,Australia,Midfielder,0,0.009361702,5
+P00924,Aaron Metcalfe,Australia,Midfielder,1,0.033191489,22
+P00925,Jackson Kusini,Australia,Midfielder,2,0.002765957,4
+P00926,Harry King,Australia,Midfielder,1,0.02787234,12
+P00927,Ajdin Jones,Australia,Midfielder,0,0.013404255,8
+P00928,Keanu Wright,Australia,Midfielder,2,0.019361702,9
+P00929,Awer Vukovic,Australia,Midfielder,3,0.017234043,14
+P00930,Craig Mooy,Australia,Midfielder,2,0.011276596,4
+P00931,Mathew Jones,Australia,Forward,3,0.039148936,10
+P00932,Aaron Wright,Australia,Forward,9,0.026382979,9
+P00933,Jackson Vukovic,Australia,Forward,12,0.061914894,27
+P00934,Harry Mooy,Australia,Forward,7,0.065319149,27
+P00935,Ajdin Souttar,Australia,Forward,6,0.034893617,16
+P00936,Keanu Duke,Australia,Forward,7,0.093191489,30
+P00937,Akram Ali,Qatar,Goalkeeper,0,0,1
+P00938,Almoez Boudiaf,Qatar,Goalkeeper,0,0,0
+P00939,Hassan Abdulla,Qatar,Goalkeeper,0,0,0
+P00940,Akram Hatem,Qatar,Defender,3,0.002878788,2
+P00941,Almoez Muntari,Qatar,Defender,1,0.001666667,1
+P00942,Hassan Pedro,Qatar,Defender,1,0.003030303,2
+P00943,Boualem Hasan,Qatar,Defender,1,0.000606061,0
+P00944,Karim Barsham,Qatar,Defender,1,0.000606061,1
+P00945,Abdelaziz Ismaeel,Qatar,Defender,0,0.002575758,0
+P00946,Ahmed Al-Dosari,Qatar,Defender,0,0.000606061,1
+P00947,Ali Abdelaziz,Qatar,Defender,4,0.001969697,0
+P00948,Mohammed Al-Hammadi,Qatar,Defender,2,0.002272727,0
+P00949,Akram Mesa,Qatar,Midfielder,3,0.018484848,26
+P00950,Almoez Al-Attiyah,Qatar,Midfielder,6,0.017575758,17
+P00951,Hassan Al-Nobi,Qatar,Midfielder,2,0.030909091,14
+P00952,Boualem Moez,Qatar,Midfielder,3,0.021818182,19
+P00953,Karim Al-Ahmad,Qatar,Midfielder,6,0.021363636,23
+P00954,Abdelaziz Al-Mohannadi,Qatar,Midfielder,1,0.011666667,7
+P00955,Ahmed Mahmoud,Qatar,Midfielder,2,0.004545455,13
+P00956,Ali Ali,Qatar,Midfielder,3,0.019848485,22
+P00957,Akram Al-Ahmad,Qatar,Forward,12,0.053181818,26
+P00958,Almoez Al-Mohannadi,Qatar,Forward,9,0.032121212,18
+P00959,Hassan Mahmoud,Qatar,Forward,5,0.031060606,13
+P00960,Boualem Ali,Qatar,Forward,10,0.059393939,27
+P00961,Karim Boudiaf,Qatar,Forward,7,0.043939394,17
+P00962,Abdelaziz Abdulla,Qatar,Forward,13,0.09030303,51
+P00963,Eldor Rashidov,Uzbekistan,Goalkeeper,0,0,0
+P00964,Sardor Kobilov,Uzbekistan,Goalkeeper,0,0,0
+P00965,Otabek Nasrullaev,Uzbekistan,Goalkeeper,0,0,1
+P00966,Eldor Hamrobekov,Uzbekistan,Defender,0,0.001590909,0
+P00967,Sardor Zakirov,Uzbekistan,Defender,0,0.000454545,0
+P00968,Otabek Yoldoshev,Uzbekistan,Defender,1,0.000909091,2
+P00969,Jaloliddin Tursunov,Uzbekistan,Defender,0,0.000681818,0
+P00970,Dostonbek Abdurakhmanov,Uzbekistan,Defender,0,0.003409091,0
+P00971,Husniddin Umarov,Uzbekistan,Defender,1,0.000909091,0
+P00972,Azizbek Yusupov,Uzbekistan,Defender,2,0.001590909,0
+P00973,Bobir Eshmurodov,Uzbekistan,Defender,2,0.000227273,0
+P00974,Jasurbek Alijanov,Uzbekistan,Defender,0,0.005227273,2
+P00975,Eldor Miralimov,Uzbekistan,Midfielder,4,0.034090909,16
+P00976,Sardor Holmatov,Uzbekistan,Midfielder,1,0.007954545,2
+P00977,Otabek Karimov,Uzbekistan,Midfielder,2,0.005909091,6
+P00978,Jaloliddin Sobirov,Uzbekistan,Midfielder,3,0.009318182,10
+P00979,Dostonbek Kenjayev,Uzbekistan,Midfielder,1,0.008181818,4
+P00980,Husniddin Nematov,Uzbekistan,Midfielder,2,0.006590909,5
+P00981,Azizbek Sattorov,Uzbekistan,Midfielder,2,0.021818182,13
+P00982,Bobir Rashidov,Uzbekistan,Midfielder,1,0.016136364,5
+P00983,Eldor Kenjayev,Uzbekistan,Forward,4,0.032045455,11
+P00984,Sardor Nematov,Uzbekistan,Forward,6,0.039772727,26
+P00985,Otabek Sattorov,Uzbekistan,Forward,2,0.044318182,9
+P00986,Jaloliddin Rashidov,Uzbekistan,Forward,9,0.040909091,28
+P00987,Dostonbek Kobilov,Uzbekistan,Forward,5,0.033409091,12
+P00988,Husniddin Nasrullaev,Uzbekistan,Forward,9,0.058181818,12
+P00989,Mohannad Hussein,Iraq,Goalkeeper,0,0,0
+P00990,Aymen Adnan,Iraq,Goalkeeper,0,0,0
+P00991,Ibrahim Mhawi,Iraq,Goalkeeper,0,0,0
+P00992,Mohannad Al-Amiri,Iraq,Defender,1,0.004146341,0
+P00993,Aymen Attwan,Iraq,Defender,0,0.001463415,0
+P00994,Ibrahim Daoud,Iraq,Defender,0,0.004146341,0
+P00995,Ali Mohanad,Iraq,Defender,0,0.000731707,1
+P00996,Amir Younis,Iraq,Defender,0,0,0
+P00997,Safaa Abbas,Iraq,Defender,1,0.004634146,0
+P00998,Hussein Ibrahim,Iraq,Defender,1,0,0
+P00999,Ahmed Moutan,Iraq,Defender,2,0.001707317,1
+P01000,Mustafa Natiq,Iraq,Defender,3,0.000731707,0
+P01001,Mohannad Al-Saadi,Iraq,Midfielder,2,0.016341463,11
+P01002,Aymen Kasid,Iraq,Midfielder,1,0.007317073,7
+P01003,Ibrahim Taher,Iraq,Midfielder,1,0.009756098,2
+P01004,Ali Al-Timimi,Iraq,Midfielder,0,0.012195122,9
+P01005,Amir Majeed,Iraq,Midfielder,4,0.015853659,11
+P01006,Safaa Al-Khafaji,Iraq,Midfielder,3,0.020731707,8
+P01007,Hussein Sadiq,Iraq,Midfielder,1,0.007317073,3
+P01008,Ahmed Hussein,Iraq,Midfielder,3,0.020487805,12
+P01009,Mohannad Majeed,Iraq,Forward,15,0.05195122,39
+P01010,Aymen Al-Khafaji,Iraq,Forward,2,0.062195122,17
+P01011,Ibrahim Sadiq,Iraq,Forward,4,0.059512195,10
+P01012,Ali Hussein,Iraq,Forward,3,0.040731707,7
+P01013,Amir Adnan,Iraq,Forward,4,0.060243902,24
+P01014,Safaa Mhawi,Iraq,Forward,11,0.069268293,21
+P01015,Sadio Koulibaly,Senegal,Goalkeeper,0,0,0
+P01016,Kalidou Mendy,Senegal,Goalkeeper,0,0,1
+P01017,Idrissa Sarr,Senegal,Goalkeeper,0,0,0
+P01018,Sadio Diatta,Senegal,Defender,0,0.000263158,0
+P01019,Kalidou Mendy,Senegal,Defender,1,0.001315789,0
+P01020,Idrissa N'Diaye,Senegal,Defender,3,0.002105263,0
+P01021,Edouard Cisse,Senegal,Defender,2,0.005,1
+P01022,Boulaye Niang,Senegal,Defender,2,0.006052632,0
+P01023,Pape Gomis,Senegal,Defender,0,0.001578947,0
+P01024,Ferland Sow,Senegal,Defender,2,0.002894737,0
+P01025,Ismaila Ba,Senegal,Defender,1,0.000789474,0
+P01026,Moussa Fall,Senegal,Defender,1,0.001052632,1
+P01027,Sadio Sabaly,Senegal,Midfielder,2,0.01,3
+P01028,Kalidou Diallo,Senegal,Midfielder,5,0.010789474,3
+P01029,Idrissa Dia,Senegal,Midfielder,2,0.015,5
+P01030,Edouard Ndiaye,Senegal,Midfielder,5,0.014736842,13
+P01031,Boulaye Diouf,Senegal,Midfielder,1,0.002894737,8
+P01032,Pape Faye,Senegal,Midfielder,1,0.006842105,3
+P01033,Ferland Seck,Senegal,Midfielder,2,0.010526316,7
+P01034,Ismaila Koulibaly,Senegal,Midfielder,0,0.013684211,8
+P01035,Sadio Diouf,Senegal,Forward,8,0.059736842,28
+P01036,Kalidou Faye,Senegal,Forward,4,0.021315789,10
+P01037,Idrissa Seck,Senegal,Forward,1,0.023157895,8
+P01038,Edouard Koulibaly,Senegal,Forward,3,0.016315789,4
+P01039,Boulaye Mendy,Senegal,Forward,8,0.025,16
+P01040,Pape Sarr,Senegal,Forward,8,0.081052632,32
+P01041,Achraf Saiss,Morocco,Goalkeeper,0,0,0
+P01042,Romain Amrabat,Morocco,Goalkeeper,0,0,0
+P01043,Nayef Ziyech,Morocco,Goalkeeper,0,0,1
+P01044,Achraf Bounou,Morocco,Defender,2,0,1
+P01045,Romain Mazraoui,Morocco,Defender,1,0.000181818,1
+P01046,Nayef Boufal,Morocco,Defender,0,0.000363636,1
+P01047,Sofyan Hakimi,Morocco,Defender,0,0.004363636,0
+P01048,Yassine Dari,Morocco,Defender,1,0.003090909,1
+P01049,Hakim Ezzalzouli,Morocco,Defender,1,0.001090909,2
+P01050,Noussair El Khannouss,Morocco,Defender,0,0.001454545,0
+P01051,Selim Benoun,Morocco,Defender,1,0.004181818,1
+P01052,Azzedine Riad,Morocco,Defender,0,0,3
+P01053,Achraf Amellah,Morocco,Midfielder,2,0.010727273,11
+P01054,Romain Aboukhlal,Morocco,Midfielder,5,0.022363636,30
+P01055,Nayef Saibari,Morocco,Midfielder,3,0.003272727,7
+P01056,Sofyan Chair,Morocco,Midfielder,6,0.018909091,22
+P01057,Yassine El Yamiq,Morocco,Midfielder,5,0.031454545,24
+P01058,Hakim Aguerd,Morocco,Midfielder,1,0.015454545,14
+P01059,Noussair Chibi,Morocco,Midfielder,2,0.008545455,9
+P01060,Selim Saiss,Morocco,Midfielder,1,0.012545455,14
+P01061,Achraf El Yamiq,Morocco,Forward,8,0.089090909,16
+P01062,Romain Aguerd,Morocco,Forward,6,0.034545455,11
+P01063,Nayef Chibi,Morocco,Forward,3,0.065636364,5
+P01064,Sofyan Saiss,Morocco,Forward,5,0.020727273,10
+P01065,Yassine Amrabat,Morocco,Forward,5,0.061090909,39
+P01066,Hakim Ziyech,Morocco,Forward,10,0.054,47
+P01067,Victor Chukwueze,Nigeria,Goalkeeper,0,0,1
+P01068,Samuel Iwobi,Nigeria,Goalkeeper,0,0,1
+P01069,Wilfred Okafor,Nigeria,Goalkeeper,0,0,1
+P01070,Victor Aribo,Nigeria,Defender,1,0.005,1
+P01071,Samuel Simon,Nigeria,Defender,0,0.003,1
+P01072,Wilfred Moffi,Nigeria,Defender,1,0.00025,1
+P01073,Alex Ekong,Nigeria,Defender,1,0.0005,0
+P01074,Joe Aina,Nigeria,Defender,3,0.00275,0
+P01075,Calvin Sanusi,Nigeria,Defender,0,0.00275,0
+P01076,Moses Nwabili,Nigeria,Defender,5,0.00075,2
+P01077,Ademola Dessers,Nigeria,Defender,1,0.00075,0
+P01078,Terem Bassey,Nigeria,Defender,2,0.004,1
+P01079,Victor Ola-Aina,Nigeria,Midfielder,1,0.00875,9
+P01080,Samuel Uzoho,Nigeria,Midfielder,1,0.0075,11
+P01081,Wilfred Iheanacho,Nigeria,Midfielder,0,0.03,21
+P01082,Alex Awoniyi,Nigeria,Midfielder,0,0.00525,2
+P01083,Joe Ajayi,Nigeria,Midfielder,1,0.01625,4
+P01084,Calvin Ejuke,Nigeria,Midfielder,3,0.015,9
+P01085,Moses Agbadou,Nigeria,Midfielder,0,0.01625,7
+P01086,Ademola Chukwueze,Nigeria,Midfielder,7,0.0005,14
+P01087,Victor Ajayi,Nigeria,Forward,6,0.048,24
+P01088,Samuel Ejuke,Nigeria,Forward,5,0.0455,12
+P01089,Wilfred Agbadou,Nigeria,Forward,8,0.0475,16
+P01090,Alex Chukwueze,Nigeria,Forward,10,0.057,26
+P01091,Joe Iwobi,Nigeria,Forward,3,0.0355,12
+P01092,Calvin Okafor,Nigeria,Forward,5,0.02825,7
+P01093,Mohammed Partey,Ghana,Goalkeeper,0,0,1
+P01094,Thomas Ayew,Ghana,Goalkeeper,0,0,0
+P01095,Jordan Williams,Ghana,Goalkeeper,0,0,0
+P01096,Mohammed Sulemana,Ghana,Defender,0,0.000888889,1
+P01097,Thomas Djiku,Ghana,Defender,2,0.008222222,0
+P01098,Jordan Baba,Ghana,Defender,2,0.001555556,0
+P01099,Andre Kudus,Ghana,Defender,0,0,1
+P01100,Kamaldeen Barnieh,Ghana,Defender,0,0.002666667,0
+P01101,Inaki Seidu,Ghana,Defender,0,0.002444444,0
+P01102,Alexander Abubakari,Ghana,Defender,2,0.002888889,0
+P01103,Daniel Lens,Ghana,Defender,0,0.002666667,0
+P01104,Osman Mensah,Ghana,Defender,0,0.001111111,1
+P01105,Mohammed Otoo,Ghana,Midfielder,6,0.011111111,23
+P01106,Thomas Rahman,Ghana,Midfielder,3,0.005111111,5
+P01107,Jordan Kasim,Ghana,Midfielder,0,0.003333333,8
+P01108,Andre Osabutey,Ghana,Midfielder,5,0.005111111,15
+P01109,Kamaldeen Attiogbe,Ghana,Midfielder,3,0.031333333,11
+P01110,Inaki Asante,Ghana,Midfielder,5,0.007555556,7
+P01111,Alexander Issahaku,Ghana,Midfielder,3,0.014666667,10
+P01112,Daniel Partey,Ghana,Midfielder,5,0.012888889,13
+P01113,Mohammed Attiogbe,Ghana,Forward,9,0.126444444,36
+P01114,Thomas Asante,Ghana,Forward,5,0.050444444,18
+P01115,Jordan Issahaku,Ghana,Forward,10,0.044444444,26
+P01116,Andre Partey,Ghana,Forward,5,0.019777778,20
+P01117,Kamaldeen Ayew,Ghana,Forward,1,0.016,7
+P01118,Inaki Williams,Ghana,Forward,9,0.027333333,15
+P01119,Samuel Choupo-Moting,Cameroon,Goalkeeper,0,0,0
+P01120,Eric Aboubakar,Cameroon,Goalkeeper,0,0,0
+P01121,Andre Anguissa,Cameroon,Goalkeeper,0,0,0
+P01122,Samuel Toko-Ekambi,Cameroon,Defender,1,0.001363636,1
+P01123,Eric Zambo,Cameroon,Defender,0,0.003181818,1
+P01124,Andre Nkoulou,Cameroon,Defender,2,0.002272727,1
+P01125,Vincent Castelleto,Cameroon,Defender,1,0.004772727,1
+P01126,Karl Mbeumo,Cameroon,Defender,0,0.004545455,2
+P01127,Nicolas Siani,Cameroon,Defender,2,0.001818182,0
+P01128,Jean Ondoa,Cameroon,Defender,0,0.000227273,1
+P01129,Moumi Hongla,Cameroon,Defender,0,0.009318182,1
+P01130,Martin Njie,Cameroon,Defender,1,0.000227273,2
+P01131,Samuel Moumi,Cameroon,Midfielder,2,0.019318182,4
+P01132,Eric Ndip,Cameroon,Midfielder,2,0.006136364,3
+P01133,Andre Kunde,Cameroon,Midfielder,4,0.029090909,13
+P01134,Vincent Lea,Cameroon,Midfielder,1,0.033636364,12
+P01135,Karl Olinga,Cameroon,Midfielder,4,0.0075,6
+P01136,Nicolas Mba,Cameroon,Midfielder,1,0.013863636,3
+P01137,Jean Bassogog,Cameroon,Midfielder,3,0.023181818,23
+P01138,Moumi Choupo-Moting,Cameroon,Midfielder,4,0.014090909,8
+P01139,Samuel Olinga,Cameroon,Forward,11,0.114545455,35
+P01140,Eric Mba,Cameroon,Forward,14,0.071590909,56
+P01141,Andre Bassogog,Cameroon,Forward,13,0.038409091,27
+P01142,Vincent Choupo-Moting,Cameroon,Forward,6,0.062954545,24
+P01143,Karl Aboubakar,Cameroon,Forward,8,0.042045455,29
+P01144,Nicolas Anguissa,Cameroon,Forward,8,0.024318182,9
+P01145,Wahbi Msakni,Tunisia,Goalkeeper,0,0,0
+P01146,Youssef Skhiri,Tunisia,Goalkeeper,0,0,0
+P01147,Ali Talbi,Tunisia,Goalkeeper,0,0,1
+P01148,Wahbi Bronn,Tunisia,Defender,0,0.001276596,1
+P01149,Youssef Laidouni,Tunisia,Defender,1,0.003404255,1
+P01150,Ali Dhaouadi,Tunisia,Defender,0,0.005319149,0
+P01151,Ellyes Sliti,Tunisia,Defender,3,0.005531915,0
+P01152,Nader Haddadi,Tunisia,Defender,0,0.004042553,2
+P01153,Hannibal Mathlouthi,Tunisia,Defender,1,0.002340426,0
+P01154,Aissa Bennacer,Tunisia,Defender,4,0.000851064,0
+P01155,Dylan Hamdi,Tunisia,Defender,2,0.002553191,0
+P01156,Montassar Sassi,Tunisia,Defender,1,0,0
+P01157,Wahbi Dragger,Tunisia,Midfielder,2,0.005957447,5
+P01158,Youssef Dahmen,Tunisia,Midfielder,1,0.008085106,3
+P01159,Ali Melki,Tunisia,Midfielder,3,0.007446809,5
+P01160,Ellyes Msaad,Tunisia,Midfielder,3,0.005319149,4
+P01161,Nader Chalali,Tunisia,Midfielder,1,0.007021277,2
+P01162,Hannibal Krid,Tunisia,Midfielder,2,0.008085106,5
+P01163,Aissa Dhaou,Tunisia,Midfielder,5,0.01787234,12
+P01164,Dylan Msakni,Tunisia,Midfielder,2,0.006382979,4
+P01165,Wahbi Chalali,Tunisia,Forward,12,0.03,23
+P01166,Youssef Krid,Tunisia,Forward,8,0.032340426,22
+P01167,Ali Dhaou,Tunisia,Forward,10,0.052978723,42
+P01168,Ellyes Msakni,Tunisia,Forward,7,0.025957447,11
+P01169,Nader Skhiri,Tunisia,Forward,4,0.027659574,9
+P01170,Hannibal Talbi,Tunisia,Forward,6,0.029574468,7
+P01171,Riyad Bennacer,Algeria,Goalkeeper,0,0,0
+P01172,Ismael Brahimi,Algeria,Goalkeeper,0,0,0
+P01173,Sofiane Mandrea,Algeria,Goalkeeper,0,0,0
+P01174,Riyad Bensebaini,Algeria,Defender,0,0.002682927,0
+P01175,Ismael Benlamri,Algeria,Defender,3,0.003170732,0
+P01176,Sofiane Zerrouki,Algeria,Defender,1,0.004878049,1
+P01177,Yacine Aouar,Algeria,Defender,2,0.003170732,2
+P01178,Houssem Belkebla,Algeria,Defender,0,0.004146341,0
+P01179,Ramiz Slimani,Algeria,Defender,1,0.003658537,0
+P01180,Adam Toudic,Algeria,Defender,1,0.003902439,0
+P01181,Nabil Khezami,Algeria,Defender,0,0.001463415,0
+P01182,Islam Touzi,Algeria,Defender,1,0.001707317,2
+P01183,Riyad Benrahma,Algeria,Midfielder,2,0.013902439,10
+P01184,Ismael Brahim,Algeria,Midfielder,0,0.012195122,2
+P01185,Sofiane Bayo,Algeria,Midfielder,2,0.001463415,9
+P01186,Yacine Benkhemassa,Algeria,Midfielder,2,0.01195122,8
+P01187,Houssem Mokrani,Algeria,Midfielder,2,0.018536585,7
+P01188,Ramiz Boufantin,Algeria,Midfielder,1,0.01804878,16
+P01189,Adam Kara,Algeria,Midfielder,2,0.024878049,12
+P01190,Nabil Bennacer,Algeria,Midfielder,2,0.017317073,2
+P01191,Riyad Mokrani,Algeria,Forward,5,0.051707317,13
+P01192,Ismael Boufantin,Algeria,Forward,7,0.030487805,10
+P01193,Sofiane Kara,Algeria,Forward,6,0.06097561,10
+P01194,Yacine Bennacer,Algeria,Forward,5,0.013658537,16
+P01195,Houssem Brahimi,Algeria,Forward,9,0.064390244,32
+P01196,Ramiz Mandrea,Algeria,Forward,7,0.054146341,22
+P01197,Mohamed Marmoush,Egypt,Goalkeeper,0,0,0
+P01198,Omar Hegazi,Egypt,Goalkeeper,0,0,0
+P01199,Trezeguet Trezeguet,Egypt,Goalkeeper,0,0,2
+P01200,Mohamed Elneny,Egypt,Defender,1,0.000888889,0
+P01201,Omar Elsaid,Egypt,Defender,0,0.000666667,1
+P01202,Trezeguet Ashour,Egypt,Defender,1,0.000444444,0
+P01203,Ahmed Abdallah,Egypt,Defender,2,0.001111111,0
+P01204,Mostafa Attia,Egypt,Defender,0,0.002888889,1
+P01205,Mohamed Hassan,Egypt,Defender,1,0.001111111,0
+P01206,Mahmoud Soliman,Egypt,Defender,0,0.000444444,0
+P01207,Amr Afsha,Egypt,Defender,0,0.000666667,0
+P01208,Abdallah El-Shenawy,Egypt,Defender,0,0.002222222,0
+P01209,Mohamed Hamdi,Egypt,Midfielder,1,0.010222222,4
+P01210,Omar Koka,Egypt,Midfielder,1,0.008888889,3
+P01211,Trezeguet Said,Egypt,Midfielder,4,0.036222222,18
+P01212,Ahmed El-Sayed,Egypt,Midfielder,2,0.007333333,7
+P01213,Mostafa Gomaa,Egypt,Midfielder,4,0.005555556,9
+P01214,Mohamed Wahbi,Egypt,Midfielder,2,0.013111111,7
+P01215,Mahmoud Ibrahim,Egypt,Midfielder,3,0.033777778,12
+P01216,Amr Marmoush,Egypt,Midfielder,1,0.011333333,10
+P01217,Mohamed Gomaa,Egypt,Forward,7,0.069555556,24
+P01218,Omar Wahbi,Egypt,Forward,2,0.031777778,1
+P01219,Trezeguet Ibrahim,Egypt,Forward,8,0.028222222,13
+P01220,Ahmed Marmoush,Egypt,Forward,8,0.026222222,25
+P01221,Mostafa Hegazi,Egypt,Forward,3,0.024222222,14
+P01222,Mohamed Trezeguet,Egypt,Forward,3,0.044666667,11
+P01223,Percy Zwane,South Africa,Goalkeeper,0,0,0
+P01224,Themba Mokoena,South Africa,Goalkeeper,0,0,0
+P01225,Lyle Mvala,South Africa,Goalkeeper,0,0,0
+P01226,Percy Williams,South Africa,Defender,1,0,0
+P01227,Themba Sithole,South Africa,Defender,2,0.000571429,0
+P01228,Lyle Makgopa,South Africa,Defender,1,0.002571429,0
+P01229,Teboho Maela,South Africa,Defender,0,0.002,0
+P01230,Ronwen Dolly,South Africa,Defender,1,0.000571429,1
+P01231,Mothobi Mokoena,South Africa,Defender,1,0.006,0
+P01232,Sphephelo Moseamedi,South Africa,Defender,1,0.000571429,0
+P01233,Luther Maboe,South Africa,Defender,2,0.000571429,1
+P01234,Evidence Zungu,South Africa,Defender,0,0.009714286,1
+P01235,Percy Lorch,South Africa,Midfielder,2,0.015142857,8
+P01236,Themba Mdantsane,South Africa,Midfielder,0,0.006285714,1
+P01237,Lyle Mothiba,South Africa,Midfielder,1,0.015714286,10
+P01238,Teboho Billiat,South Africa,Midfielder,3,0.01,3
+P01239,Ronwen Mkhize,South Africa,Midfielder,5,0.008,9
+P01240,Mothobi Xoki,South Africa,Midfielder,3,0.007142857,6
+P01241,Sphephelo Mbatha,South Africa,Midfielder,0,0.034571429,8
+P01242,Luther Zwane,South Africa,Midfielder,2,0.011714286,7
+P01243,Percy Mkhize,South Africa,Forward,4,0.027714286,9
+P01244,Themba Xoki,South Africa,Forward,13,0.049142857,27
+P01245,Lyle Mbatha,South Africa,Forward,4,0.036,14
+P01246,Teboho Zwane,South Africa,Forward,5,0.042285714,18
+P01247,Ronwen Mokoena,South Africa,Forward,3,0.024285714,5
+P01248,Mothobi Mvala,South Africa,Forward,5,0.036571429,10
